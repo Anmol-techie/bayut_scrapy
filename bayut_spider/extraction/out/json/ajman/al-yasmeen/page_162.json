@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 8242,
+  "url": "https://www.bayut.com/for-sale/property/ajman/al-yasmeen/page-162/?sort=date_desc",
+  "name": "Al Yasmeen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.372925,
+    "longitude": 55.569521
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12495383.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "For sale, a villa with electricity and water included, without service fees, freehold for all nationalities",
+        "url": "https://www.bayut.com/property/details-12495383.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,014",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/789221360-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12495383.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1700000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12495357.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "This is a prime parcel of vacant land offering a unique opportunity",
+        "url": "https://www.bayut.com/property/details-12495357.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,600",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/789221052-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12495357.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12495259.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "This is a prime parcel of vacant land offering a unique opportunity",
+        "url": "https://www.bayut.com/property/details-12495259.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,600",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/789219562-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12495259.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1550000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12495238.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Opportunity to own a studio in Princess Village. First payment: only 55,000 dirhams.",
+        "url": "https://www.bayut.com/property/details-12495238.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.378499984741,
+          "longitude": 55.571300506592
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "637",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/789219124-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12495238.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 401000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494843.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Own a villa without a down payment for sale at a bargain price in a prime location",
+        "url": "https://www.bayut.com/property/details-12494843.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,100",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/789212808-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494843.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494835.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Without a down payment, own a villa for sale at a bargain price in a prime location.",
+        "url": "https://www.bayut.com/property/details-12494835.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,100",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/790235091-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494835.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494834.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "For sale, a villa with electricity and water included, without service fees, freehold for all nationalities",
+        "url": "https://www.bayut.com/property/details-12494834.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,500",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/789212701-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494834.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1700000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494819.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "For sale in Al Yasmeen, central air conditioning, personal finishing, 5 master bedrooms with wardrobes, freehold for all nationalities.",
+        "url": "https://www.bayut.com/property/details-12494819.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,700",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/789212444-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494819.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1720000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494818.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Classic villa with no down payment, freehold for all nationalities",
+        "url": "https://www.bayut.com/property/details-12494818.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,500",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/789212405-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494818.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1900000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494817.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Corner villa on a main street and opposite a park in the Jasmine area of Ajman, very excellent finishing with a swimming pool, freehold for life for a",
+        "url": "https://www.bayut.com/property/details-12494817.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "4,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/789212321-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494817.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2850000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494638.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Adorable deal 5 master bedrooms with built in wardrobes, swimming pool and roof including water, elc and AC",
+        "url": "https://www.bayut.com/property/details-12494638.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,650",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "8",
+        "image": "https://images.bayut.com/thumbnails/789210625-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494638.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1850000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494504.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Seize the opportunity at the best price with a two-bedroom apartment with a balcony and garden view in Al Ameera Village",
+        "url": "https://www.bayut.com/property/details-12494504.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.378499984741,
+          "longitude": 55.571300506592
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,570",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789208303-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494504.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 730000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494310.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury two Master Bedroom Apartment in Al Ameera Village 7 years payment plan Direct From Developer Prime location",
+        "url": "https://www.bayut.com/property/details-12494310.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.378499984741,
+          "longitude": 55.571300506592
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,350",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789205773-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494310.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 607459,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494309.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury two Master Bedroom Apartment in Al Ameera Village 7 years payment plan Direct From Developer Prime location",
+        "url": "https://www.bayut.com/property/details-12494309.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.378499984741,
+          "longitude": 55.571300506592
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,350",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789208026-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494309.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 607459,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494284.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Book your own two bedrooms Apartment in Al Ameera Village 7 years payment plan Direct From Developer Prime location",
+        "url": "https://www.bayut.com/property/details-12494284.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.378499984741,
+          "longitude": 55.571300506592
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,560",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789205201-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494284.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 714587,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10560933.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Luxury villa for sale in Al-Yasmine neighborhood: an unmissable opportunity to live in comfort and luxury with central air conditioning",
+        "url": "https://www.bayut.com/property/details-10560933.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,014",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/791081723-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10560933.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1650000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494245.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "One bedroom Close kitchen Apartment in Al Ameera Village 7 years payment plan Direct From Developer Prime location",
+        "url": "https://www.bayut.com/property/details-12494245.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.378499984741,
+          "longitude": 55.571300506592
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "788",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789204742-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494245.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 409546,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494230.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2 BHK APARTMENT FOR SALE IN AMEERA VILLAGE AJMAN WITH PAYMENT PLAN",
+        "url": "https://www.bayut.com/property/details-12494230.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,350",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789226196-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494230.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 614999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11359222.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "For sale, a modern corner villa with 5 rooms, a roof, and a place for an elevator, at a price including air conditioning, directly in front of the gar",
+        "url": "https://www.bayut.com/property/details-11359222.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,014",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/791087688-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11359222.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1900000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494222.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Buy your Own Specious Studio with Balcony in Ameera Village, Al Yasmeen Prime location, Freehold Property",
+        "url": "https://www.bayut.com/property/details-12494222.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.378499984741,
+          "longitude": 55.571300506592
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "595",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/789204396-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494222.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 328465,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11469314.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "For sale, a modern corner villa with 5 rooms, a roof, and a place for an elevator, at a price including air conditioning, directly in front of the gar",
+        "url": "https://www.bayut.com/property/details-11469314.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,014",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/791091303-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11469314.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1900000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12494126.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Luxury villa on the corner of two streets with a modern design, close to all services, featuring a pool and a roof. The price includes air conditionin",
+        "url": "https://www.bayut.com/property/details-12494126.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "5,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "6"
+        },
+        "numberOfBathroomsTotal": "8",
+        "image": "https://images.bayut.com/thumbnails/789202721-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12494126.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3070000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11412675.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Classic villa in Al-Yasmine area, very close to Al-Hamidiyah Park, freehold for all for life and including registration fees",
+        "url": "https://www.bayut.com/property/details-11412675.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "5,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/770201554-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11412675.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2850000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12493944.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "For sale at a price including registration fees in a prime location",
+        "url": "https://www.bayut.com/property/details-12493944.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.372925,
+          "longitude": 55.569521
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/789199587-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Yasmeen"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12493944.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1260000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/ajman/al-yasmeen/page-162/",
+    "lowPrice": 355000,
+    "highPrice": 3800000,
+    "offerCount": 8242,
+    "priceCurrency": "AED"
+  }
+}

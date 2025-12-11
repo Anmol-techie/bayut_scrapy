@@ -1,0 +1,1152 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 3609,
+  "url": "https://www.bayut.com/for-sale/property/dubai/majan/page-40/?sort=date_desc",
+  "name": "Majan",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.094454203642,
+    "longitude": 55.318139998375
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12607371.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "LUXURY 1 BEDROOM + POOL AT SAMANA BARARI",
+        "url": "https://www.bayut.com/property/details-12607371.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.092922945836,
+          "longitude": 55.320862809318
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,084",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791574484-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12607371.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1593984,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606718.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "STUDIO - FULLY FURNISHED - DISCOUNT CASH PAYMENT",
+        "url": "https://www.bayut.com/property/details-12606718.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.093415859142,
+          "longitude": 55.322026149289
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "462",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/791322460-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606718.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 739888,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606247.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury 2BR + Maid | Smart 20/80 Plan |Urban living",
+        "url": "https://www.bayut.com/property/details-12606247.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.093415859142,
+          "longitude": 55.322026149289
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,365",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/791364816-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606247.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1986888,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606214.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury 2BR + Maid | Smart 20/80 Plan |Urban living",
+        "url": "https://www.bayut.com/property/details-12606214.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.093415859142,
+          "longitude": 55.322026149289
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,035",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/791349195-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606214.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1342888,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606191.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "20/ 80 payment plan I Q4 2025 I 2+STUDY",
+        "url": "https://www.bayut.com/property/details-12606191.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.093415859142,
+          "longitude": 55.322026149289
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,365",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/791362179-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606191.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1718888,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606153.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Fully Furnished | 0% Commission | Handover Dec 2026 | 4 Payment Plan Available",
+        "url": "https://www.bayut.com/property/details-12606153.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.093415859142,
+          "longitude": 55.322026149289
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,826",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/791361146-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606153.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2141888,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606141.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "18 Months Handover | Variety of Pp | Fully Furnished",
+        "url": "https://www.bayut.com/property/details-12606141.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.093415859142,
+          "longitude": 55.322026149289
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,844",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/791350980-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606141.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2057172,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606127.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Fully Furnished | Prime Location | Smart Home System",
+        "url": "https://www.bayut.com/property/details-12606127.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.093415859142,
+          "longitude": 55.322026149289
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "690",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791348400-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606127.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 905000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11737765.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Park View + Barari View | Luxury Living | high ROI | smart home | Near to Al Barari",
+        "url": "https://www.bayut.com/property/details-11737765.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.094672327427,
+          "longitude": 55.316966151851
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "760",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776069324-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11737765.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1190000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11737607.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2BR + Study | Community View | Luxury Living | high ROI | smart home | Near to Al Barari",
+        "url": "https://www.bayut.com/property/details-11737607.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.094672327427,
+          "longitude": 55.316966151851
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,081",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/776066758-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11737607.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1520000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11737550.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2BR + Pool + Study | Park View | Luxury Living | high ROI | smart home | Near to Al Barari",
+        "url": "https://www.bayut.com/property/details-11737550.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.094672327427,
+          "longitude": 55.316966151851
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,558",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/776066073-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11737550.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2287000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9341926.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "HIGH ROI | Spacious Balcony- Private Pool",
+        "url": "https://www.bayut.com/property/details-9341926.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.097222,
+          "longitude": 55.314806
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "989",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/752522126-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9341926.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1630000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12605958.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Great Project | High ROI | Chiller Free",
+        "url": "https://www.bayut.com/property/details-12605958.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.093415859142,
+          "longitude": 55.322026149289
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "713",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12605958.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1102888,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12605957.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "20/80 Payment Plan | Chiller free | Great Project",
+        "url": "https://www.bayut.com/property/details-12605957.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.093415859142,
+          "longitude": 55.322026149289
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "708",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12605957.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1102888,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11709870.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Ready-to-Move | 30% Cash Discount | 1BR Fully Furnished | High ROI | Jade Tower, Majan",
+        "url": "https://www.bayut.com/property/details-11709870.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.086513893484,
+          "longitude": 55.315287004851
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "744",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/775605462-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11709870.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 741773,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11712919.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Fully Furnished 1BR | 30% OFF Cash Deal | High Floor | Opp. Global Village | No Commission",
+        "url": "https://www.bayut.com/property/details-11712919.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.086513893484,
+          "longitude": 55.315287004851
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "744",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/775673037-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11712919.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 753229,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12605852.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Distress Deal - Chiller Free - 1051 Sqft Convertible To 2BR - Just AED 772,555",
+        "url": "https://www.bayut.com/property/details-12605852.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.093613040686,
+          "longitude": 55.324265887836
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,051",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791282501-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12605852.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 772555,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12605375.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "METRO\\BARARI\\TRUSTED DEVELOPER\\FULLY FURNISHED\\12%ROI",
+        "url": "https://www.bayut.com/property/details-12605375.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.086513893484,
+          "longitude": 55.315287004851
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,066",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/791301531-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12605375.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1150000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12605360.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "FURNISHED\\METRO\\BARARI\\FELEXABLE PLAN ASK FOR CASH OFFER",
+        "url": "https://www.bayut.com/property/details-12605360.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.086513893484,
+          "longitude": 55.315287004851
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "743",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791301564-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12605360.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 715000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12605152.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "COMMUNITY VIEW_TOP RATED UNIT_MOST LUXURY_EASY PP",
+        "url": "https://www.bayut.com/property/details-12605152.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.086513893484,
+          "longitude": 55.315287004851
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "868",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791269468-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12605152.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 828108,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12605151.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "ACT FAST AND CALL!LAVISH FINISHES_COZY REISDENCE",
+        "url": "https://www.bayut.com/property/details-12605151.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.086513893484,
+          "longitude": 55.315287004851
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "744",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791269434-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12605151.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 717601,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12604632.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "20% down payment Easy financing Secured investment Exceptional location",
+        "url": "https://www.bayut.com/property/details-12604632.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.087959,
+          "longitude": 55.302793
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "856",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791261758-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12604632.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 941424,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12604374.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Fully Furnished|Smart home|Accepts mortgage80%",
+        "url": "https://www.bayut.com/property/details-12604374.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.093415859142,
+          "longitude": 55.322026149289
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,035",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/791257762-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12604374.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1280000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12603951.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "HIGHEST GURANTEED ROI IN DUBAI_12% ROI FOR 12 YRS!",
+        "url": "https://www.bayut.com/property/details-12603951.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.096552012128,
+          "longitude": 55.315401230426
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "963",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/791251555-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Majan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12603951.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 870000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/majan/page-40/",
+    "lowPrice": 525000,
+    "highPrice": 2879800,
+    "offerCount": 3609,
+    "priceCurrency": "AED"
+  }
+}

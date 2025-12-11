@@ -1,0 +1,167 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 51,
+  "url": "https://www.bayut.com/for-sale/property/ajman/ajman-industrial/page-3/?sort=date_desc",
+  "name": "Ajman Industrial",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.385159,
+    "longitude": 55.485226
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11609753.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "A Golden Investment Opportunity! A G+6 Residential Building in Ajman Industrial Area with an Excellent Income",
+        "url": "https://www.bayut.com/property/details-11609753.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.385159,
+          "longitude": 55.485226
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "4,300",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "11"
+        },
+        "numberOfBathroomsTotal": "11",
+        "image": "https://images.bayut.com/thumbnails/773629194-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ajman Industrial"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11609753.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 9300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10351879.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Corner plot in industrial 2, large area",
+        "url": "https://www.bayut.com/property/details-10351879.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.376017,
+          "longitude": 55.47208
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "8,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "0",
+        "image": "https://images.bayut.com/thumbnails/751176820-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ajman Industrial"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10351879.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10203734.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "For sale land in Ajman - Industrial Area 2",
+        "url": "https://www.bayut.com/property/details-10203734.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.376017,
+          "longitude": 55.47208
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "10,500",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "0",
+        "image": "https://images.bayut.com/thumbnails/748357972-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ajman Industrial"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10203734.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 4000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/ajman/ajman-industrial/page-3/",
+    "lowPrice": 785000,
+    "highPrice": 13700000,
+    "offerCount": 51,
+    "priceCurrency": "AED"
+  }
+}

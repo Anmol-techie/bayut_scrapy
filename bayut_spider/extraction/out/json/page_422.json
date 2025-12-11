@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 112586,
+  "url": "https://www.bayut.com/for-sale/property/dubai/page-422/",
+  "name": "Dubai",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.024769324449,
+    "longitude": 55.359007938377
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11294566.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Fully Furnished | High ROI | Prime Location",
+        "url": "https://www.bayut.com/property/details-11294566.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.039063161314,
+          "longitude": 55.180907459982
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "727",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/768062577-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11294566.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1150000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8563441.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Direct From The Developer | Flexible 40/60 payment plan",
+        "url": "https://www.bayut.com/property/details-8563441.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.213494889951,
+          "longitude": 55.319497841272
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "366",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/600854786-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Jaddaf"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8563441.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 970400,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8563695.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Flexible 40/60 payment plan | breathtaking Dubai Creek and the beautiful Dubai skyline views",
+        "url": "https://www.bayut.com/property/details-8563695.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.213494889951,
+          "longitude": 55.319497841272
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,068",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/601057148-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Jaddaf"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8563695.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2555000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8563759.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Flexible 40/60 payment plan | breathtaking Dubai Creek and the beautiful Dubai skyline views",
+        "url": "https://www.bayut.com/property/details-8563759.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.213494889951,
+          "longitude": 55.319497841272
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,839",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/601056192-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Jaddaf"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8563759.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 5055000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8563569.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Direct From The Developer | Flexible 40/60 payment plan | Dubai Creek Views",
+        "url": "https://www.bayut.com/property/details-8563569.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.213494889951,
+          "longitude": 55.319497841272
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "727",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/600868043-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Jaddaf"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8563569.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1574155,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8821695.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Direct From The Developer | Flexible 40/60 payment plan",
+        "url": "https://www.bayut.com/property/details-8821695.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.025841067003,
+          "longitude": 55.157329869384
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,251",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/662789753-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8821695.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1650000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8821784.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Direct From The Developer | Flexible 40/60 payment plan",
+        "url": "https://www.bayut.com/property/details-8821784.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.025841067003,
+          "longitude": 55.157329869384
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,662",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/662789606-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8821784.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2150000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8564860.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Flexible 40/60 payment plan | Waterfront Luxury Apartments",
+        "url": "https://www.bayut.com/property/details-8564860.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.174605506815,
+          "longitude": 55.313308804345
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,227",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/601056588-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Meydan City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8564860.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3120000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8564669.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Flexible 40/60 payment plan | Waterfront Luxury Apartments",
+        "url": "https://www.bayut.com/property/details-8564669.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.174605506815,
+          "longitude": 55.313308804345
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "912",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/601056606-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Meydan City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8564669.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2323000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11259941.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Panoramic View | Spacious Terrace | Great Location",
+        "url": "https://www.bayut.com/property/details-11259941.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.206244515585,
+          "longitude": 55.266189932535
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,855",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/767448479-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Wasl"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11259941.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 14490000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11255845.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "SINGLE ROW | CLOSE TO FACILITIES | HO Q2 / 28",
+        "url": "https://www.bayut.com/property/details-11255845.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.054636688838,
+          "longitude": 55.308633037823
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,980",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/767380205-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Athlon by Aldar"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11255845.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3350000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11240719.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Sea View | Luxury | Cavalli | Exclusive | Beach",
+        "url": "https://www.bayut.com/property/details-11240719.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.092596408277,
+          "longitude": 55.143905167252
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "829",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/767133218-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Harbour"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11240719.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3240000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11209010.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Below OP Price| Premium-Branded | Opulent",
+        "url": "https://www.bayut.com/property/details-11209010.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.087997265508,
+          "longitude": 55.339273582927
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "5,425",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/766856521-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubailand"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11209010.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 9900000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11158176.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Investment deal | 3Y Post Handover | Amenities View | Price Less than Market | No premium",
+        "url": "https://www.bayut.com/property/details-11158176.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.065122280041,
+          "longitude": 55.237968037674
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "763",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/765954542-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11158176.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11158255.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Hot Deal | Genuine Resale | Luxury Quality | Prime Location | Near to Upcoming Airport |",
+        "url": "https://www.bayut.com/property/details-11158255.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.989585568664,
+          "longitude": 55.179379633406
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "742",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/765728720-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Investment Park (DIP)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11158255.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 750000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11154181.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Investment Deal | Ready soon | High floor | High ROI | Zabeel & Dubai frame view",
+        "url": "https://www.bayut.com/property/details-11154181.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.232520976843,
+          "longitude": 55.294654713563
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "719",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/788436501-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Bur Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11154181.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1850000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11084925.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Biggest plot area | Corner unit | Handover soon",
+        "url": "https://www.bayut.com/property/details-11084925.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.098508656485,
+          "longitude": 55.323289811904
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "4,944",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/765433693-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Barari"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11084925.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 6800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11024967.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Corner | Large plot | Semi-detached | close to lagoon | Exclusive",
+        "url": "https://www.bayut.com/property/details-11024967.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.952694528961,
+          "longitude": 55.215865129388
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,557",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/763390794-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11024967.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 4850000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11013445.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Prime Location / Most Competitive Price /Amazing Layout/ post handover payment plan",
+        "url": "https://www.bayut.com/property/details-11013445.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.067173258331,
+          "longitude": 55.213886335721
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "507",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/763198960-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11013445.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 785850,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11013469.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Prime Location/ 20% 1st Payment/ 30% During Con% 20% On Handover/30% Post Handover",
+        "url": "https://www.bayut.com/property/details-11013469.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.067173258331,
+          "longitude": 55.213886335721
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,716",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/763199423-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11013469.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1802850,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11013394.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "limited units for full cash payment",
+        "url": "https://www.bayut.com/property/details-11013394.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.067173258331,
+          "longitude": 55.213886335721
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "819",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/763198156-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11013394.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1050000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11017899.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "limited units for full cash payment",
+        "url": "https://www.bayut.com/property/details-11017899.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.067173258331,
+          "longitude": 55.213886335721
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "892",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/763270699-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11017899.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1050000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10996383.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "INVESTOR DEAL | HANDOVER SOON | SPACIOUS",
+        "url": "https://www.bayut.com/property/details-10996383.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.056347378663,
+          "longitude": 55.239341743921
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "791",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/762901029-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10996383.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1150000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10975941.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Urgent Resale | Sea View 1BR | Dubai Harbour",
+        "url": "https://www.bayut.com/property/details-10975941.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.092460370603,
+          "longitude": 55.144088383755
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "871",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/767778293-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Harbour"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10975941.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3570000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/page-422/",
+    "lowPrice": 420000,
+    "highPrice": 63469360,
+    "offerCount": 112586,
+    "priceCurrency": "AED"
+  }
+}

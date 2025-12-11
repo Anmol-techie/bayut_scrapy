@@ -1,0 +1,966 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 4940,
+  "url": "https://www.bayut.com/for-sale/property/dubai/dubai-residence-complex/page-206/?sort=date_desc",
+  "name": "Dubai Land Residence Complex",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.093506547702,
+    "longitude": 55.381121025916
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10572135.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Modern 1BHK | Spacious 1113 sqft | Vacant & Ready to Move!",
+        "url": "https://www.bayut.com/property/details-10572135.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.0915,
+          "longitude": 55.383675
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "798",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/755054427-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10572135.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 855000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10482269.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Payment Plan| Brand New Apartment | One Bedroom Apartment",
+        "url": "https://www.bayut.com/property/details-10482269.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.083829943153,
+          "longitude": 55.38375211742
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "921",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/753538703-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10482269.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1157244,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8080570.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Tenanted till end of August / Good Geal",
+        "url": "https://www.bayut.com/property/details-8080570.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.091443,
+          "longitude": 55.384978
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,063",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/505793749-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8080570.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 899999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10357983.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Modern Studio | Amazing Pool Views | Post Handover",
+        "url": "https://www.bayut.com/property/details-10357983.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.097665937718,
+          "longitude": 55.37945278007
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "587",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/751287649-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10357983.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 849000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10344911.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxurious 2BR I Post Handover PP I Modern Design",
+        "url": "https://www.bayut.com/property/details-10344911.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.099414649487,
+          "longitude": 55.378132229164
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,340",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/751067509-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10344911.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1390000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10218273.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "8-Year Plan with 5 Years Post-Handover at 1% Monthly",
+        "url": "https://www.bayut.com/property/details-10218273.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.100567978673,
+          "longitude": 55.377066359108
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "683",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/776466754-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10218273.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1012162,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10178270.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spacious 1BR| Best Deal | 50/50 Payment | High ROI",
+        "url": "https://www.bayut.com/property/details-10178270.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.083829943153,
+          "longitude": 55.38375211742
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "874",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/747850813-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10178270.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1062000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10178078.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Lage 1BR | Premium Finish | 5yrs Post- Handover",
+        "url": "https://www.bayut.com/property/details-10178078.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.083829943153,
+          "longitude": 55.38375211742
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "907",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/747850988-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10178078.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1094000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9951866.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Modern 1BR l 25% Discount | 8yrs Payment Plan",
+        "url": "https://www.bayut.com/property/details-9951866.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.09084377953,
+          "longitude": 55.384151593088
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "837",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/743810186-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9951866.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1064000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9948246.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Large Studio + Pool | Post- Handover | 1% Monthly",
+        "url": "https://www.bayut.com/property/details-9948246.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.09084377953,
+          "longitude": 55.384151593088
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "528",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/743718473-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9948246.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 799000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9943296.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Premium 2BR+ Pool | 8yrs Payment | Great Location",
+        "url": "https://www.bayut.com/property/details-9943296.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.09084377953,
+          "longitude": 55.384151593088
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,251",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/743624957-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9943296.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1509000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9943262.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury 2BR+ Pool | 8yrs Payment Plan | 1% Monthly",
+        "url": "https://www.bayut.com/property/details-9943262.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.09084377953,
+          "longitude": 55.384151593088
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,237",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/743624553-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9943262.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1509000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9943208.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spacious 2BR with Private Pool | 1% Payment Plan",
+        "url": "https://www.bayut.com/property/details-9943208.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.09084377953,
+          "longitude": 55.384151593088
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,176",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/743623909-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9943208.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1514000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9943066.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2BR+ Pool | 8-yrs Payment | Skyline & City Views",
+        "url": "https://www.bayut.com/property/details-9943066.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.09084377953,
+          "longitude": 55.384151593088
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,283",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/743621836-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9943066.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1660000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9906373.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Urban Living | Largest Studio with Private Pool",
+        "url": "https://www.bayut.com/property/details-9906373.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.097665937718,
+          "longitude": 55.37945278007
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "587",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/742917955-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9906373.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 849000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9904122.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury Studio | Private Pool | 5yrs Post- Handover",
+        "url": "https://www.bayut.com/property/details-9904122.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.097665937718,
+          "longitude": 55.37945278007
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "587",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/742877398-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9904122.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 849000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9819534.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1% Monthly Payment || Post Handover over 46 Months || Limited Availability",
+        "url": "https://www.bayut.com/property/details-9819534.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.097665937718,
+          "longitude": 55.37945278007
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "805",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/776465995-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9819534.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1239000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9789176.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2BED PLUS PRIVATE POOL | PRIME LOCATION | LUXURY LIVING",
+        "url": "https://www.bayut.com/property/details-9789176.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.100567978673,
+          "longitude": 55.377066359108
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,165",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/752520955-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9789176.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1178550,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9779265.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "LUXURY SEMI FURNISHED | 1BED PLUS POOL | PRIME LOCATION",
+        "url": "https://www.bayut.com/property/details-9779265.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.100567978673,
+          "longitude": 55.377066359108
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "795",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/752521378-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9779265.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 820497,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9647232.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "POOL WITH BALCONY I 1% PAYMENT PLAN I AMAZING VIEW I PRIME LOCATION",
+        "url": "https://www.bayut.com/property/details-9647232.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.100567978673,
+          "longitude": 55.377066359108
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "420",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/789443217-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Land Residence Complex"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9647232.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 749000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/dubai-residence-complex/page-206/",
+    "lowPrice": 600000,
+    "highPrice": 1845380,
+    "offerCount": 4940,
+    "priceCurrency": "AED"
+  }
+}

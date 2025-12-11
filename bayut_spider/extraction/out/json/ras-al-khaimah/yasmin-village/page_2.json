@@ -1,0 +1,214 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 28,
+  "url": "https://www.bayut.com/for-sale/property/ras-al-khaimah/yasmin-village/page-2/?sort=date_desc",
+  "name": "Yasmin Village",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.742391264047,
+    "longitude": 55.985429137722
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10352944.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Leasehold- Peaceful Location- Closed Kitchen- Balcony",
+        "url": "https://www.bayut.com/property/details-10352944.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.741686851435,
+          "longitude": 55.985200055569
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,069",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/777848513-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Yasmin Village"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10352944.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 330000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8902431.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Invest Now | Mountain Views | Tenant Occupied",
+        "url": "https://www.bayut.com/property/details-8902431.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.741859939335,
+          "longitude": 55.984613320861
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,200",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/726751635-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Yasmin Village"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8902431.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 350000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8899275.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Huge Balcony - Mountain View - Terrace Apartment",
+        "url": "https://www.bayut.com/property/details-8899275.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.742269151584,
+          "longitude": 55.986316255536
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,514",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/726751644-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Yasmin Village"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8899275.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 450000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8898165.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2BR Terrace Apt : Great Investment Opportunity",
+        "url": "https://www.bayut.com/property/details-8898165.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.742130715933,
+          "longitude": 55.985686216544
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,251",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/726751773-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Yasmin Village"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8898165.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 295000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/ras-al-khaimah/yasmin-village/page-2/",
+    "lowPrice": 220000,
+    "highPrice": 449000,
+    "offerCount": 28,
+    "priceCurrency": "AED"
+  }
+}

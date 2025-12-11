@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 352,
+  "url": "https://www.bayut.com/for-sale/property/sharjah/al-taawun/page-3/?sort=date_desc",
+  "name": "Al Taawun",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.3107965,
+    "longitude": 55.376190438853
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12529995.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Three rooms for sale at a bargain price, close to Dubai exit",
+        "url": "https://www.bayut.com/property/details-12529995.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.3107965,
+          "longitude": 55.376190438853
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,500",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789777661-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12529995.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 700000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12527048.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2 bedrooms /master bedroom /balcony /wardrobe /parking /for sale",
+        "url": "https://www.bayut.com/property/details-12527048.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.3107965,
+          "longitude": 55.376190438853
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,195",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789712081-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12527048.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 910000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12519333.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Modern Apartment | Breathtaking Water Views",
+        "url": "https://www.bayut.com/property/details-12519333.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.313688,
+          "longitude": 55.375929
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,557",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/789601642-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12519333.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1110000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12519011.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury Coastal Living | Prime Location",
+        "url": "https://www.bayut.com/property/details-12519011.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.313688,
+          "longitude": 55.375929
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,555",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/789579699-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12519011.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1106000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12518979.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Waterfront Apartment | Stunning Sea Views",
+        "url": "https://www.bayut.com/property/details-12518979.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.313688,
+          "longitude": 55.375929
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,553",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/789579257-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12518979.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1104000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12518915.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury Escape | Prestigious Coastal Address",
+        "url": "https://www.bayut.com/property/details-12518915.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.313688,
+          "longitude": 55.375929
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,107",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789578436-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12518915.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 808000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12518750.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Modern Interiors | Beachfront Serenity",
+        "url": "https://www.bayut.com/property/details-12518750.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.313688,
+          "longitude": 55.375929
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,105",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789575735-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12518750.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 806000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12518673.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High-Rise Elegance | Unmatched Ocean Views",
+        "url": "https://www.bayut.com/property/details-12518673.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.313688,
+          "longitude": 55.375929
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,103",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789574915-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12518673.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 804000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12518637.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Sophisticated Living | Coastal Charm",
+        "url": "https://www.bayut.com/property/details-12518637.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.313688,
+          "longitude": 55.375929
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "707",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789573376-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12518637.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 608000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12518575.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Contemporary Apartment | Ultimate Beachfront Comfort",
+        "url": "https://www.bayut.com/property/details-12518575.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.313688,
+          "longitude": 55.375929
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "704",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789572320-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12518575.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 606000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12518392.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury Redefined | Coastal Retreat",
+        "url": "https://www.bayut.com/property/details-12518392.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.313688,
+          "longitude": 55.375929
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "702",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789569151-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12518392.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 604000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517264.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Elegant Apartment | High-End Finishes",
+        "url": "https://www.bayut.com/property/details-12517264.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.304333,
+          "longitude": 55.363564
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,558",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/789562250-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517264.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1108000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517200.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Stylish Home | Direct Beach Access",
+        "url": "https://www.bayut.com/property/details-12517200.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.304333,
+          "longitude": 55.363564
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,554",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/789561128-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517200.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1106000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517162.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spacious Apartment | Serene Coastal Lifestyle",
+        "url": "https://www.bayut.com/property/details-12517162.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.304333,
+          "longitude": 55.363564
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,552",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/789560221-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517162.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1104000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517082.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Premium Living | Uninterrupted Ocean Views",
+        "url": "https://www.bayut.com/property/details-12517082.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.304333,
+          "longitude": 55.363564
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,107",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789559522-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517082.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 810000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517036.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Exclusive Apartment | Tranquil Waterfront Setting",
+        "url": "https://www.bayut.com/property/details-12517036.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.304333,
+          "longitude": 55.363564
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,105",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789558354-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517036.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 806000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12516998.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Seaside Elegance | Contemporary Design",
+        "url": "https://www.bayut.com/property/details-12516998.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.304333,
+          "longitude": 55.363564
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,104",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789557726-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12516998.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 804000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12516916.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Modern Apartment | Breathtaking Water Views",
+        "url": "https://www.bayut.com/property/details-12516916.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.304333,
+          "longitude": 55.363564
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "705",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789556362-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12516916.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 608000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12516885.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury Coastal Living | Prime Location",
+        "url": "https://www.bayut.com/property/details-12516885.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.304333,
+          "longitude": 55.363564
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "703",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789559446-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12516885.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 606000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12516846.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Waterfront Apartment | Stunning Sea Views",
+        "url": "https://www.bayut.com/property/details-12516846.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.304333,
+          "longitude": 55.363564
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "701",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789559256-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12516846.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 604000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12511432.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Breathtaking Seascapes | Elegant Modern Living",
+        "url": "https://www.bayut.com/property/details-12511432.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.314772,
+          "longitude": 55.378031
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,557",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/789491853-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12511432.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1108000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12511386.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Idyllic Views | Premium Apartment Living",
+        "url": "https://www.bayut.com/property/details-12511386.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.314772,
+          "longitude": 55.378031
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,555",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/789491111-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12511386.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1106000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12511287.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury Escape | Prestigious Coastal Address",
+        "url": "https://www.bayut.com/property/details-12511287.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.314772,
+          "longitude": 55.378031
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,553",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/789489753-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12511287.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1104000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12511266.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Seaside Elegance | Contemporary Design",
+        "url": "https://www.bayut.com/property/details-12511266.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.304330471515,
+          "longitude": 55.369396770164
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,108",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789489018-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Taawun"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12511266.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/sharjah/al-taawun/page-3/",
+    "lowPrice": 380000,
+    "highPrice": 2490000,
+    "offerCount": 352,
+    "priceCurrency": "AED"
+  }
+}

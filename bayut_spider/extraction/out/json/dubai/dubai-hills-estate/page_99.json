@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 2728,
+  "url": "https://www.bayut.com/for-sale/property/dubai/dubai-hills-estate/page-99/?sort=date_desc",
+  "name": "Dubai Hills Estate",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.113927104297,
+    "longitude": 55.259853572903
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11804169.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Club Villas View | Building 1 | High Floor",
+        "url": "https://www.bayut.com/property/details-11804169.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.123709,
+          "longitude": 55.260482
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,118",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/777682936-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11804169.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11821708.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "HIGH ROI 8% | POOL VIEW | TENANTED",
+        "url": "https://www.bayut.com/property/details-11821708.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.099810297326,
+          "longitude": 55.244474758047
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "961",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/777673723-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11821708.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1950000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11821707.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High Floor | Partival Park view | Corner Unit",
+        "url": "https://www.bayut.com/property/details-11821707.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.106380094527,
+          "longitude": 55.241824929594
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "705",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/777673775-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11821707.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1950000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11821212.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "One Of A Kind | Fully Extended | Upgraded",
+        "url": "https://www.bayut.com/property/details-11821212.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.101583580209,
+          "longitude": 55.24838665416
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,523",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/777666610-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11821212.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 15000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11817835.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Exclusive | Priced To Sell | Brand New",
+        "url": "https://www.bayut.com/property/details-11817835.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.112155019058,
+          "longitude": 55.24843824293
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "661",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/786870612-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11817835.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1530000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11817610.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxurious 2 bed | high floor | best layout",
+        "url": "https://www.bayut.com/property/details-11817610.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.118555804248,
+          "longitude": 55.257822076398
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,410",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/777608792-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11817610.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11815768.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Full Park View | 3 Bedroom Duplex Apartment",
+        "url": "https://www.bayut.com/property/details-11815768.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.109766923197,
+          "longitude": 55.248768082899
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,201",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/777465369-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11815768.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 8220000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11809260.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Well Maintained | 2BR Open View | Ready To Move",
+        "url": "https://www.bayut.com/property/details-11809260.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.11521,
+          "longitude": 55.248445
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "957",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/777236853-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11809260.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2400000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11805987.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Prime Location in the heart of Dubai Hills Estate",
+        "url": "https://www.bayut.com/property/details-11805987.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.113594452924,
+          "longitude": 55.251004516992
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "730",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/777195549-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11805987.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1902888,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11803888.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Amenities View | Modern 1 BHK | Furnished",
+        "url": "https://www.bayut.com/property/details-11803888.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.114637374805,
+          "longitude": 55.248038389677
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "478",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/791914524-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11803888.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1290000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11801686.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Corner Plot Type 4 / 5BR Plus Maids / Furnished",
+        "url": "https://www.bayut.com/property/details-11801686.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.093740953549,
+          "longitude": 55.247585210327
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "5,495",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/786826772-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11801686.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 12300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11798956.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spacious Layout | Sleek Design | Genuine Resale",
+        "url": "https://www.bayut.com/property/details-11798956.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.107549909277,
+          "longitude": 55.242930325932
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,064",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/777676712-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11798956.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2400000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10988841.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High ROI | Prime Location | Community Living",
+        "url": "https://www.bayut.com/property/details-10988841.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.105787479196,
+          "longitude": 55.24130909684
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "982",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/763170239-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10988841.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2756888,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10821281.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Huge Park facing | Corner | Ready Community | 10% Down",
+        "url": "https://www.bayut.com/property/details-10821281.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.113973667244,
+          "longitude": 55.253160872266
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "711",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/759685831-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10821281.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1862888,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10821357.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "On the Park | Corner | Ready Community | 10% Down",
+        "url": "https://www.bayut.com/property/details-10821357.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.113973667244,
+          "longitude": 55.253160872266
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,140",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/759689952-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10821357.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2702888,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-6319990.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Perfect Investment | Park View | Tenanted",
+        "url": "https://www.bayut.com/property/details-6319990.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.111002442784,
+          "longitude": 55.24361739205
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "690",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/317179805-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-6319990.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1750000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11793757.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Flexible Payment Plan 1 BEDROOM 0% Commission",
+        "url": "https://www.bayut.com/property/details-11793757.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.113295641763,
+          "longitude": 55.251495508276
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "764",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/776978516-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11793757.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1905888,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11793085.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "6 Bed | Fully Upgraded | Park Backing",
+        "url": "https://www.bayut.com/property/details-11793085.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.122918737464,
+          "longitude": 55.274910056639
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "7,280",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "6"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/776967828-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11793085.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 38000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11789675.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Flora | Elie Saab | Call the Community Expert",
+        "url": "https://www.bayut.com/property/details-11789675.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.130274924169,
+          "longitude": 55.277484415506
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "7,104",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/776915254-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11789675.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 18000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11787840.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Modern | Great Location | Payment Plan",
+        "url": "https://www.bayut.com/property/details-11787840.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.105829903588,
+          "longitude": 55.244607051743
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,053",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776888627-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11787840.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2550000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11785224.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Largest Layout | Completion 2026 | Top Location",
+        "url": "https://www.bayut.com/property/details-11785224.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.116185959337,
+          "longitude": 55.257833167857
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,027",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/776849744-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11785224.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11785213.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High Floor | Sidra Villas View | Handover Q2 2026",
+        "url": "https://www.bayut.com/property/details-11785213.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.100636854327,
+          "longitude": 55.244361872227
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "998",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776849446-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11785213.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2480000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11782668.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Brand New | Spacious | Community View",
+        "url": "https://www.bayut.com/property/details-11782668.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.100636854327,
+          "longitude": 55.244361872227
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "998",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776810625-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11782668.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11782666.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1 Bed Duplex | Spacious | Luxury Unit",
+        "url": "https://www.bayut.com/property/details-11782666.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.105809354832,
+          "longitude": 55.244930156757
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,313",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776810631-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Hills Estate"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11782666.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/dubai-hills-estate/page-99/",
+    "lowPrice": 1450000,
+    "highPrice": 28000000,
+    "offerCount": 2728,
+    "priceCurrency": "AED"
+  }
+}

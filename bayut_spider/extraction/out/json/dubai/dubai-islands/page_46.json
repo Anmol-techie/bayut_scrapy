@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 3228,
+  "url": "https://www.bayut.com/for-sale/property/dubai/dubai-islands/page-46/?sort=date_desc",
+  "name": "Dubai Islands",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.297636331164,
+    "longitude": 55.309845368058
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12251808.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spacious 1BR | Post Handover | Freehold",
+        "url": "https://www.bayut.com/property/details-12251808.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.290553817184,
+          "longitude": 55.305483424629
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "767",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/785165226-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12251808.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12223949.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Scenic Views | Modern Amenities | Prime Location",
+        "url": "https://www.bayut.com/property/details-12223949.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.281060097648,
+          "longitude": 55.296605660884
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,630",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/784694620-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12223949.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3160000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12194835.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Sea View | Below Market | Multiple units | Not for agents",
+        "url": "https://www.bayut.com/property/details-12194835.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.299550908799,
+          "longitude": 55.296948286137
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,062",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/784210688-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12194835.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2450000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12193615.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Invesment | Beach Access | Sea View | 45% Post Handover | 10 DP | 1% Monthly",
+        "url": "https://www.bayut.com/property/details-12193615.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.290384174576,
+          "longitude": 55.30327179457
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,733",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/784176680-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12193615.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3682602,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12191064.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Last Island Community| Beach| Pet Friendly |Unique",
+        "url": "https://www.bayut.com/property/details-12191064.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.30289564728,
+          "longitude": 55.321990155953
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,955",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/784128690-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12191064.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3961000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12190269.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Book Now | Latest launch | Call Now | Few Units",
+        "url": "https://www.bayut.com/property/details-12190269.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.30289564728,
+          "longitude": 55.321990155953
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,600",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/784116779-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12190269.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3917000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12176309.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxurious 1BR | Fully Furnished | Island Living | Great Investment",
+        "url": "https://www.bayut.com/property/details-12176309.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.291369779297,
+          "longitude": 55.300603812175
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "805",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/783929968-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12176309.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1808509,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12159633.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2-BR | 0% Commission | Exclusive Offer | High ROI | Limited Units Available",
+        "url": "https://www.bayut.com/property/details-12159633.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.292329581364,
+          "longitude": 55.302836398959
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,203",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/783620620-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12159633.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2580000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12158543.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "HUGE LAYOUT | NEW LAUNCH | SEA VIEW | MAID ROOM",
+        "url": "https://www.bayut.com/property/details-12158543.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.305283875334,
+          "longitude": 55.319757223155
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,999",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/783602069-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12158543.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 4941000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12158542.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "WATERFRONT LIVING | SEA VIEW | NEW LAUCH CALL NOW",
+        "url": "https://www.bayut.com/property/details-12158542.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.305283875334,
+          "longitude": 55.319757223155
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,977",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/783602070-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12158542.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3961000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12124305.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Closest to Beach | 1BR | 60/40 Plan | Assignment",
+        "url": "https://www.bayut.com/property/details-12124305.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.299550908799,
+          "longitude": 55.296948286137
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "548",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/783019583-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12124305.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 920000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12106758.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Largest Layout | Modern Interiors | Prime Location",
+        "url": "https://www.bayut.com/property/details-12106758.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.29874349839,
+          "longitude": 55.295516791479
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,671",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/782720628-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12106758.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3699900,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12101513.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Large Layout | High ROI | Coastal Living",
+        "url": "https://www.bayut.com/property/details-12101513.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.305866592495,
+          "longitude": 55.312616857157
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,003",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/783402181-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12101513.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3190000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12080450.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Maids Room | Partial Canal Views | 6 Yrs Payment",
+        "url": "https://www.bayut.com/property/details-12080450.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.290641122502,
+          "longitude": 55.308943337386
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,253",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/782295603-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12080450.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2506699,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12070500.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Refined Urban Living | Serene Views & Stylish Interiors",
+        "url": "https://www.bayut.com/property/details-12070500.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.285865392351,
+          "longitude": 55.297760477363
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "891",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/782389474-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12070500.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1785000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12070266.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Stylish Escape | Spacious 1BR with Lazy River & Podium Views",
+        "url": "https://www.bayut.com/property/details-12070266.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.285865392351,
+          "longitude": 55.297760477363
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "887",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/782390423-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12070266.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1785000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12046743.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Spacious 4-Bedroom Garden Villa Bay Villas Prime Location",
+        "url": "https://www.bayut.com/property/details-12046743.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.312516469502,
+          "longitude": 55.323258579321
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "6,612",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/781734355-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12046743.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 10500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12034007.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Costal Tranquility High ROI Shoreline Living Flexible Payment",
+        "url": "https://www.bayut.com/property/details-12034007.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.285865392351,
+          "longitude": 55.297760477363
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,279",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/781478703-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12034007.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2601000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12033448.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Bright & Airy 2BR Unit | Garden View | Luxury Coastal Vibes",
+        "url": "https://www.bayut.com/property/details-12033448.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.301002459544,
+          "longitude": 55.315639529179
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,189",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/781467967-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12033448.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2790000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12033270.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2BR Garden-Facing Apartment | Luxury Coastal Living | Exclusive Beachside Community",
+        "url": "https://www.bayut.com/property/details-12033270.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.301002459544,
+          "longitude": 55.315639529179
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,342",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/781465304-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12033270.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2860000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12032535.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Stylish 1-Bedroom Apartment | Garden View | Coastal Living",
+        "url": "https://www.bayut.com/property/details-12032535.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.301002459544,
+          "longitude": 55.315639529179
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "880",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/781453924-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12032535.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1940000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12032370.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Off-Plan 1BR Apartment | Garden View | Beachside Living",
+        "url": "https://www.bayut.com/property/details-12032370.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.301002459544,
+          "longitude": 55.315639529179
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "881",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/781449155-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12032370.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1930000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11942955.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Sea Views | Signature 1 BR | Crystal Beach",
+        "url": "https://www.bayut.com/property/details-11942955.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.293796665645,
+          "longitude": 55.303607635967
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "868",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/779746778-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11942955.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1940000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11917557.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "BEST PRICED ISLAND LIVING WITH TOUCH OF LUXURY",
+        "url": "https://www.bayut.com/property/details-11917557.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.289507659609,
+          "longitude": 55.294738333667
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "751",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/779218618-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Islands"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11917557.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1700000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/dubai-islands/page-46/",
+    "lowPrice": 1519200,
+    "highPrice": 11726550,
+    "offerCount": 3228,
+    "priceCurrency": "AED"
+  }
+}

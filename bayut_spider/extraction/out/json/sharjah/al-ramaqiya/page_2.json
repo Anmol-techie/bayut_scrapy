@@ -1,0 +1,543 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 35,
+  "url": "https://www.bayut.com/for-sale/property/sharjah/al-ramaqiya/page-2/?sort=date_desc",
+  "name": "Al Ramaqiya",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.356100082398,
+    "longitude": 55.462200164795
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10485507.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Modern Luxury Villa | Strategic Location | Call Now| Resale Unit",
+        "url": "https://www.bayut.com/property/details-10485507.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.356100082398,
+          "longitude": 55.462200164795
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,162",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756291283-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramaqiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10485507.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2133000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10485502.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Best Price | Spacious Layout | Strategic Location| Resale Unit",
+        "url": "https://www.bayut.com/property/details-10485502.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.356100082398,
+          "longitude": 55.462200164795
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,160",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756281250-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramaqiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10485502.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2026000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10485428.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Best for Families | Convenient Location| Resale",
+        "url": "https://www.bayut.com/property/details-10485428.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.356100082398,
+          "longitude": 55.462200164795
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,365",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/756270407-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramaqiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10485428.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2016000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10485424.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Luxury Villas | Exclusive Location | Lifetime Visa Opportunity | Easy Payment Plans",
+        "url": "https://www.bayut.com/property/details-10485424.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.356100082398,
+          "longitude": 55.462200164795
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,363",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/756254636-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramaqiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10485424.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1832000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10485417.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Strategic Location | Modern Luxury Villa | Resale",
+        "url": "https://www.bayut.com/property/details-10485417.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.356100082398,
+          "longitude": 55.462200164795
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,361",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/756239872-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramaqiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10485417.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1606000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10485414.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Ready to Move In | Call Now | Resale Unit\t\t\t\tf",
+        "url": "https://www.bayut.com/property/details-10485414.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.356100082398,
+          "longitude": 55.462200164795
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,359",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/756224558-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramaqiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10485414.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1404000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10460877.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "SPACIOUS 8BR CLASSIC VILLA FOR SALE IN AL RAMAQEYA AREA WITH X LARGE PLOT FOR PARK",
+        "url": "https://www.bayut.com/property/details-10460877.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.356100082398,
+          "longitude": 55.462200164795
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "26,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "7"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/773630900-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramaqiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10460877.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3900000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10228994.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Ready to Move In | Call Now | Resale Unit",
+        "url": "https://www.bayut.com/property/details-10228994.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.356100082398,
+          "longitude": 55.462200164795
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "4,500",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/756264238-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramaqiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10228994.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10228914.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Strategic Location | Modern Luxury Villa | Resale",
+        "url": "https://www.bayut.com/property/details-10228914.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.356100082398,
+          "longitude": 55.462200164795
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,154",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756233758-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramaqiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10228914.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2129000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10228909.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Best for Families | Convenient Location| Resale",
+        "url": "https://www.bayut.com/property/details-10228909.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.356100082398,
+          "longitude": 55.462200164795
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,150",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756220697-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramaqiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10228909.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10228847.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Luxury Villa | Strategic Location | Resale Unit",
+        "url": "https://www.bayut.com/property/details-10228847.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.356100082398,
+          "longitude": 55.462200164795
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,350",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/756286180-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramaqiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10228847.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1400000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/sharjah/al-ramaqiya/page-2/",
+    "lowPrice": 1404000,
+    "highPrice": 8000000,
+    "offerCount": 35,
+    "priceCurrency": "AED"
+  }
+}

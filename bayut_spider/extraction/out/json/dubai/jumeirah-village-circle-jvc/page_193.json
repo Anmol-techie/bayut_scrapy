@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 12381,
+  "url": "https://www.bayut.com/for-sale/property/dubai/jumeirah-village-circle-jvc/page-193/?sort=date_desc",
+  "name": "Jumeirah Village Circle (JVC)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.059307559208,
+    "longitude": 55.208860887438
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11432681.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Fully Furnished + Study | Community View | Modern",
+        "url": "https://www.bayut.com/property/details-11432681.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.049492097913,
+          "longitude": 55.197990319107
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "876",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/770525896-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11432681.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1459990,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11194842.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Furnished | Private Pool | Presidential Studio",
+        "url": "https://www.bayut.com/property/details-11194842.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.069245959144,
+          "longitude": 55.205713389709
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "417",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/774483837-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11194842.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 780000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606548.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Pool and Park View | Modern Interior | BRAND NEW",
+        "url": "https://www.bayut.com/property/details-12606548.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.059665581188,
+          "longitude": 55.218400488931
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "760",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791289447-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606548.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606471.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High Floor | City View | Spacious",
+        "url": "https://www.bayut.com/property/details-12606471.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.047452116351,
+          "longitude": 55.205645631564
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "747",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/791288224-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606471.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1403700,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606469.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Family Community | Pool View | Spacious",
+        "url": "https://www.bayut.com/property/details-12606469.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.047452116351,
+          "longitude": 55.205645631564
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,526",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791288212-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606469.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2293600,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606400.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Motivated sell | Vacant on transfer|Next to the mall",
+        "url": "https://www.bayut.com/property/details-12606400.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.065611,
+          "longitude": 55.213556
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "677",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791286967-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606400.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 950000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606397.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Prime Location | Flexible Payment Plan | Spacious",
+        "url": "https://www.bayut.com/property/details-12606397.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.068417856745,
+          "longitude": 55.213305535744
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "363",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/791286982-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606397.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 874999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10815301.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Branded Residence | Fully Furnished | Prime Location",
+        "url": "https://www.bayut.com/property/details-10815301.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.060089002671,
+          "longitude": 55.219431178079
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,043",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791286151-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10815301.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11596476.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2 Parking Spaces | Furnished | Top Floor",
+        "url": "https://www.bayut.com/property/details-11596476.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.067519752046,
+          "longitude": 55.211918263998
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "953",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/773292763-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11596476.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1190000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10927725.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Ultra Spacious 4BR | Premium Quality | Must View",
+        "url": "https://www.bayut.com/property/details-10927725.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.046718427321,
+          "longitude": 55.20009683276
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,875",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/761631149-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10927725.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3399999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10848823.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spacious 1BR | Prime Location | Call To Inquire | Without balcony",
+        "url": "https://www.bayut.com/property/details-10848823.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.053682,
+          "longitude": 55.213066
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "895",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/760097147-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10848823.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 699999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606198.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Family Community | Paseo View | Spacious",
+        "url": "https://www.bayut.com/property/details-12606198.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.047452116351,
+          "longitude": 55.205645631564
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "982",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/791283260-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606198.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1409200,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606186.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Ideal for Investors | 20% Down | Brand New Property | High ROI",
+        "url": "https://www.bayut.com/property/details-12606186.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.054474085384,
+          "longitude": 55.198746192183
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "677",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791283804-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606186.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1006777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606158.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Modern | Huge Terrace | Furnished | Storage Included",
+        "url": "https://www.bayut.com/property/details-12606158.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.066661572569,
+          "longitude": 55.206381302463
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,021",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791296240-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606158.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12606092.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Unfurnished | Vacant | No Balcony | Prime Location",
+        "url": "https://www.bayut.com/property/details-12606092.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.052246150904,
+          "longitude": 55.214796066284
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "483",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/791281454-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12606092.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 515000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11739766.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1 Bed + Study | Payment Plan | High ROI | Luxury Finishing",
+        "url": "https://www.bayut.com/property/details-11739766.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.0513354,
+          "longitude": 55.20629316
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "809",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776102712-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11739766.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1050000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12605956.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Vacant Now | 3bed + Basement | Near Circle Mall",
+        "url": "https://www.bayut.com/property/details-12605956.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.063524133913,
+          "longitude": 55.217167536098
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,300",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/791279170-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12605956.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11721348.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Park View | High Floor | Genuine Resale",
+        "url": "https://www.bayut.com/property/details-11721348.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.054204214761,
+          "longitude": 55.202882571161
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "899",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/784345235-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11721348.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1150000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11714855.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury 2BR | High ROI | Smart Home | Binghatti Ruby, JVC | Flexible Payment | 0% Commission",
+        "url": "https://www.bayut.com/property/details-11714855.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.068417856745,
+          "longitude": 55.213305535744
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,161",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/775685281-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11714855.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1715999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11714873.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Smart 2BR | Luxury Living in Binghatti Ruby | High ROI | Prime JVC Location | 0% Commission",
+        "url": "https://www.bayut.com/property/details-11714873.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.068417856745,
+          "longitude": 55.213305535744
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,225",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/775685624-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11714873.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1754999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12605464.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2BHK Semi Furnished / SPACIOUS APARTMENT /GOOD ROI",
+        "url": "https://www.bayut.com/property/details-12605464.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.052304196641,
+          "longitude": 55.212624054622
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,162",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/791549799-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12605464.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1771053,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12605446.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2 BHK FURNISHED / PHPP/ SPACIOUS APARTMENT",
+        "url": "https://www.bayut.com/property/details-12605446.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.052304196641,
+          "longitude": 55.212624054622
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,156",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/791549491-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12605446.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1879530,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12605228.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Large 1BR | High-quality | Handover soon",
+        "url": "https://www.bayut.com/property/details-12605228.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.053703164691,
+          "longitude": 55.208315219709
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "925",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791282782-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12605228.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1299000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12604427.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spacious 1 BR Apartment in Al Barsha South 4",
+        "url": "https://www.bayut.com/property/details-12604427.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.068841,
+          "longitude": 55.207289
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "828",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791258615-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Circle (JVC)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12604427.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 750000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/jumeirah-village-circle-jvc/page-193/",
+    "lowPrice": 530000,
+    "highPrice": 3800000,
+    "offerCount": 12381,
+    "priceCurrency": "AED"
+  }
+}

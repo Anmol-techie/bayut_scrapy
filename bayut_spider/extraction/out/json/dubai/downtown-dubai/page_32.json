@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 3275,
+  "url": "https://www.bayut.com/for-sale/property/dubai/downtown-dubai/page-32/?sort=date_desc",
+  "name": "Downtown Dubai",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.193357636539,
+    "longitude": 55.276027274692
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581687.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Canal View I Huge Layout I High RIO",
+        "url": "https://www.bayut.com/property/details-12581687.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.189803551576,
+          "longitude": 55.27186224263
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,754",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/790696981-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581687.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 8700000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581442.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High Floor | Sea Views | Vacant",
+        "url": "https://www.bayut.com/property/details-12581442.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.195088,
+          "longitude": 55.269557
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,111",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790691907-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581442.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3599999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581376.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "One Bedroom | Vacant October | Canal Facing",
+        "url": "https://www.bayut.com/property/details-12581376.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.190219,
+          "longitude": 55.281293
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "727",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/790690733-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581376.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1700000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581130.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Best Deal | Large Layout | Luxurious 1 BR",
+        "url": "https://www.bayut.com/property/details-12581130.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.20142,
+          "longitude": 55.270842
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "872",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790686414-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581130.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3350000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12580984.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury 2BHK + Maid I Canal Views I 60/40 Payment Plan",
+        "url": "https://www.bayut.com/property/details-12580984.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.189803551576,
+          "longitude": 55.27186224263
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,894",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/790684029-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12580984.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 6324000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12580779.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury 1BR | Act T2 | Blvd and Burj Khalifa View",
+        "url": "https://www.bayut.com/property/details-12580779.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.192685238114,
+          "longitude": 55.271733800862
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "720",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/790680366-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12580779.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2550000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12580668.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Burj Khalifa View | High Floor | Investor Deal",
+        "url": "https://www.bayut.com/property/details-12580668.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.197510583395,
+          "longitude": 55.2714513848
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,563",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/790678195-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12580668.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 8500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12580579.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Burj Khalifa View| Upgraded | Prime Location",
+        "url": "https://www.bayut.com/property/details-12580579.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.190677,
+          "longitude": 55.281575
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "906",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790676659-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12580579.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1850000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12580494.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Downtown Living |High Floor with Burj Khalifa View",
+        "url": "https://www.bayut.com/property/details-12580494.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.195018,
+          "longitude": 55.270476
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,922",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/790675192-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12580494.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 9000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12580484.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1 Bed plus Study | Vacant on Transfer | High Floor",
+        "url": "https://www.bayut.com/property/details-12580484.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.190405,
+          "longitude": 55.272454
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "842",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/790675119-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12580484.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2299000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12580418.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Full Burj View | Brand New 3 Bedroom+Maid | Top Deal",
+        "url": "https://www.bayut.com/property/details-12580418.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.196758304157,
+          "longitude": 55.283978128312
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,384",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/790809496-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12580418.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 7500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11496963.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2BR Loft Duplex | Fully Upgraded| Manhattan Vibe",
+        "url": "https://www.bayut.com/property/details-11496963.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.197380706524,
+          "longitude": 55.269859917288
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,753",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/771589712-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11496963.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 4800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12580138.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Best View of Dubai | Vacant | Trophy asset",
+        "url": "https://www.bayut.com/property/details-12580138.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.200813681385,
+          "longitude": 55.276276767308
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,840",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/790670229-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12580138.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 18100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-7490744.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "OPERA GRAND EXPERT | Upgraded | Baroque",
+        "url": "https://www.bayut.com/property/details-7490744.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.195499,
+          "longitude": 55.271766
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,553",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/790654052-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-7490744.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 12300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12579973.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Duplex | Burj Khalifa View | Payment Plan",
+        "url": "https://www.bayut.com/property/details-12579973.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.192685238114,
+          "longitude": 55.271733800862
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,435",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/791669355-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12579973.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 7500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12579788.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Super Rare | High Floor Unit | Tenanted",
+        "url": "https://www.bayut.com/property/details-12579788.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.195088,
+          "longitude": 55.269557
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,723",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/790666250-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12579788.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 5600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12579527.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "VOT | One Bedroom | Prime Location",
+        "url": "https://www.bayut.com/property/details-12579527.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.190219,
+          "longitude": 55.281293
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "915",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790663263-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12579527.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1950000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12579359.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "FULL Burj Khalifa view | Viewings Ongoing",
+        "url": "https://www.bayut.com/property/details-12579359.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.196758304157,
+          "longitude": 55.283978128312
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,099",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790660650-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12579359.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 4850000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12579122.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Premium Living | Furnished | Fountain Views",
+        "url": "https://www.bayut.com/property/details-12579122.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.197159,
+          "longitude": 55.274491
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,133",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790657168-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12579122.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12579108.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Mercedes Branded | Premium Location | Burj View",
+        "url": "https://www.bayut.com/property/details-12579108.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.188373201721,
+          "longitude": 55.280080795573
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,836",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/790657014-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12579108.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 10299999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12578935.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Sea And Sunset View | Luxury | High Floor",
+        "url": "https://www.bayut.com/property/details-12578935.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.201816,
+          "longitude": 55.270863
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,329",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/790654706-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12578935.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 5850000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12578823.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Vacant | High Floor | Fully Furnished",
+        "url": "https://www.bayut.com/property/details-12578823.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.190219,
+          "longitude": 55.281293
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,299",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/790773024-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12578823.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2799999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12578372.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Burj Khalifa View I Experience Luxury I Spacious Layout",
+        "url": "https://www.bayut.com/property/details-12578372.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.197421810246,
+          "longitude": 55.267054697515
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,419",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/792755007-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12578372.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3199999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12578229.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Series 16 | Bills Included | Blvd and Canal View",
+        "url": "https://www.bayut.com/property/details-12578229.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.194272450492,
+          "longitude": 55.278786141599
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "935",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790662973-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Downtown Dubai"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12578229.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/downtown-dubai/page-32/",
+    "lowPrice": 1200000,
+    "highPrice": 40000000,
+    "offerCount": 3275,
+    "priceCurrency": "AED"
+  }
+}

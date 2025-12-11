@@ -1,0 +1,966 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 44,
+  "url": "https://www.bayut.com/for-sale/property/sharjah/al-qadisiya/page-2/?sort=date_desc",
+  "name": "Al Qadisiya",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.375,
+    "longitude": 55.414798736572
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10483729.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Strategic Location | Modern Luxury Villa | Resale",
+        "url": "https://www.bayut.com/property/details-10483729.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "4,505",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/756281652-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10483729.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2688000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10483728.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Luxury Villa | Strategic Location | Resale Unit",
+        "url": "https://www.bayut.com/property/details-10483728.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "4,500",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/756267731-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10483728.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2504000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10483648.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Luxury Villa | Strategic Location | Resale Unit",
+        "url": "https://www.bayut.com/property/details-10483648.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,170",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756253717-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10483648.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2511000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10483643.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Strategic Location | Modern Luxury Villa | Resale",
+        "url": "https://www.bayut.com/property/details-10483643.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,168",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756239103-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10483643.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2322000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10483640.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Modern Luxury Villa | Strategic Location | Call Now| Resale Unit",
+        "url": "https://www.bayut.com/property/details-10483640.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,164",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756224039-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10483640.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2120000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10483516.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Strategic Location | Modern Luxury Villa | Resale",
+        "url": "https://www.bayut.com/property/details-10483516.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,360",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/756290116-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10483516.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1605000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10483514.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Ready to Move In | Call Now | Resale Unit",
+        "url": "https://www.bayut.com/property/details-10483514.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,350",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/756281571-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10483514.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1400000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10240590.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Luxury Villa | Strategic Location | Resale Unit",
+        "url": "https://www.bayut.com/property/details-10240590.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "4,506",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/756191194-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10240590.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2522000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10240529.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Modern Luxury Villa | Strategic Location | Call Now| Resale Unit",
+        "url": "https://www.bayut.com/property/details-10240529.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,158",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756285928-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10240529.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2120000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10240527.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Best Price | Spacious Layout | Strategic Location| Resale Unit",
+        "url": "https://www.bayut.com/property/details-10240527.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,156",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756277517-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10240527.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2023000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10240444.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Strategic Location | Modern Luxury Villa | Resale",
+        "url": "https://www.bayut.com/property/details-10240444.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,355",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756235544-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10240444.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1560000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10240440.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Ready to Move In | Call Now | Resale Unit",
+        "url": "https://www.bayut.com/property/details-10240440.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,352",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/756220653-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10240440.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1416000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10239107.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Corner house with two meters opposite Al-Qadisiyah Park",
+        "url": "https://www.bayut.com/property/details-10239107.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "8,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "6"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/748966352-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10239107.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1150000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10222113.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Ready to Move In | Call Now | Resale Unit",
+        "url": "https://www.bayut.com/property/details-10222113.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "4,500",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/756190844-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10222113.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2504000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10222001.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Luxury Villas | Exclusive Location | Lifetime Visa Opportunity | Easy Payment Plans",
+        "url": "https://www.bayut.com/property/details-10222001.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,154",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756220235-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10222001.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2159000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10221982.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Best for Families | Convenient Location| Resale",
+        "url": "https://www.bayut.com/property/details-10221982.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,150",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756206507-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10221982.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10220941.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Strategic Location | Modern Luxury Villa | Resale",
+        "url": "https://www.bayut.com/property/details-10220941.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,354",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/756276832-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10220941.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1610000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10220934.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Luxury Villa | Strategic Location | Resale Unit",
+        "url": "https://www.bayut.com/property/details-10220934.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,350",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/756264245-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10220934.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1408000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9467619.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "clean four-room house in Al-Qadisiyah",
+        "url": "https://www.bayut.com/property/details-9467619.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,500",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/743646152-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9467619.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 650000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9254950.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "A house for sale in a corner in Al-Qadisiyah in the Emirate of Sharjah, with an area of 3,050 square feet, a divided house, with a rent of 43,000 di",
+        "url": "https://www.bayut.com/property/details-9254950.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.375,
+          "longitude": 55.414798736572
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,050",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/729090898-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Qadisiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9254950.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 650000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/sharjah/al-qadisiya/page-2/",
+    "lowPrice": 500000,
+    "highPrice": 2688000,
+    "offerCount": 44,
+    "priceCurrency": "AED"
+  }
+}

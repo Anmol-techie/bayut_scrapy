@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 3053,
+  "url": "https://www.bayut.com/for-sale/property/dubai/dubai-marina/page-6/?sort=date_desc",
+  "name": "Dubai Marina",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.083189748036,
+    "longitude": 55.14430056087
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12696155.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "VOT | Partial Sea View | Mid Floor",
+        "url": "https://www.bayut.com/property/details-12696155.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.075544,
+          "longitude": 55.133946
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "954",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792825618-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12696155.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12696154.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "VOT | Mid Floor | High Rental Demand",
+        "url": "https://www.bayut.com/property/details-12696154.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.07508,
+          "longitude": 55.137889
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "609",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792825604-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12696154.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1575000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12696086.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2 BEDROOM | FULLY UPGRADED | FURNISHED",
+        "url": "https://www.bayut.com/property/details-12696086.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.078374,
+          "longitude": 55.137878
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,198",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792824271-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12696086.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3200000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12695876.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Marina Views | Emaar | High Floor",
+        "url": "https://www.bayut.com/property/details-12695876.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.073321,
+          "longitude": 55.136814
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "841",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/792938093-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12695876.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1950000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12695874.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "HIGH FLOOR | Vacant Soon | EMAAR",
+        "url": "https://www.bayut.com/property/details-12695874.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.074878,
+          "longitude": 55.133678
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "957",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792938068-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12695874.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12695865.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "MARINA VIEW | Fully Furnished | EMAAR",
+        "url": "https://www.bayut.com/property/details-12695865.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.073321,
+          "longitude": 55.136814
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "944",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/792938016-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12695865.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2050000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12695862.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "EXCLUSIVE | Marina Views | Vacant on Transfer",
+        "url": "https://www.bayut.com/property/details-12695862.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.083409163387,
+          "longitude": 55.144808814548
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,136",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/792937990-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12695862.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2650000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12695861.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Marina View | UPGRADED | EMAAR",
+        "url": "https://www.bayut.com/property/details-12695861.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.073321,
+          "longitude": 55.136814
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "971",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/792937979-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12695861.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12695682.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High ROI | Upgraded | Fully Furnished",
+        "url": "https://www.bayut.com/property/details-12695682.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.089967,
+          "longitude": 55.148283
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "886",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792896246-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12695682.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1450000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12695466.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Brand New | Best and Largest Layout in LIV Marina",
+        "url": "https://www.bayut.com/property/details-12695466.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.084894,
+          "longitude": 55.144343
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "915",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792815712-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12695466.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3200000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12695273.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "HARBOUR VIEWS | RENOVATED | FURNISHED",
+        "url": "https://www.bayut.com/property/details-12695273.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.0884,
+          "longitude": 55.147004
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,008",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/792812358-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12695273.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 4100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12695183.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Marina, Dubai Ain and Sea View | Must See!",
+        "url": "https://www.bayut.com/property/details-12695183.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.07086073369,
+          "longitude": 55.125834222264
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,120",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792811063-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12695183.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3477500,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12695029.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Great Location | Vacant | Maids Room",
+        "url": "https://www.bayut.com/property/details-12695029.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.089767351636,
+          "longitude": 55.150803923607
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,146",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/792808680-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12695029.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12694885.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury 3-Bedroom Apartment + Maid’s Room | Marina Arcade, Dubai Marina",
+        "url": "https://www.bayut.com/property/details-12694885.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.08888735328,
+          "longitude": 55.149446119655
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,465",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/792806780-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12694885.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12694875.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Vacant | Partial Marina View | Unfurnished",
+        "url": "https://www.bayut.com/property/details-12694875.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.068307,
+          "longitude": 55.12925
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "823",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792806447-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12694875.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1400000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12694862.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "VOT | Maids Room | Motivated Seller",
+        "url": "https://www.bayut.com/property/details-12694862.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.089967,
+          "longitude": 55.148283
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,411",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/792806201-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12694862.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1699999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12694843.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Vacant | High Floor | Perfect Investment",
+        "url": "https://www.bayut.com/property/details-12694843.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.086438,
+          "longitude": 55.147157
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "763",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792806028-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12694843.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12694743.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Fully Upgraded | Turn Key | Prime 01 Layout",
+        "url": "https://www.bayut.com/property/details-12694743.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.075998,
+          "longitude": 55.135845
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,042",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/792804730-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12694743.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 7300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10949607.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Exclusive | Panoramic Sea View | Fully Renovated",
+        "url": "https://www.bayut.com/property/details-10949607.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.090678213447,
+          "longitude": 55.148739419203
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,273",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/763110776-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10949607.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 6000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11140178.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Low Floor | Vacant | Best Layout",
+        "url": "https://www.bayut.com/property/details-11140178.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.08869934082,
+          "longitude": 55.14820098877
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "801",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/765443734-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11140178.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 947999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11088934.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Vacant on Transfer | Furnished | Big Balcony",
+        "url": "https://www.bayut.com/property/details-11088934.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.072439,
+          "longitude": 55.132294
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,245",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/764605814-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11088934.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2250000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10921573.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2 Bed | Fully Furnished | Chiller Free",
+        "url": "https://www.bayut.com/property/details-10921573.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.072439,
+          "longitude": 55.132294
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "759",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/787951357-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10921573.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1440000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12694268.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "BEST PRICED Vacant | Full Marina View | High Floor",
+        "url": "https://www.bayut.com/property/details-12694268.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.086438,
+          "longitude": 55.147157
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,310",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/792797405-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12694268.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 5000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12694266.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "BEST PRICED Emaar | Vacant | Private Garden Marina",
+        "url": "https://www.bayut.com/property/details-12694266.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.086399078369,
+          "longitude": 55.148899078369
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,924",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792797414-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai Marina"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12694266.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 5800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/dubai-marina/page-6/",
+    "lowPrice": 550000,
+    "highPrice": 119988000,
+    "offerCount": 3053,
+    "priceCurrency": "AED"
+  }
+}

@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 2645,
+  "url": "https://www.bayut.com/for-sale/property/dubai/arjan/page-47/?sort=date_desc",
+  "name": "Arjan",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.060642922979,
+    "longitude": 55.235346790528
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12518610.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "3 BHK + Study | Private Pool | Luxury Living",
+        "url": "https://www.bayut.com/property/details-12518610.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.056347378663,
+          "longitude": 55.239341743921
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,519",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/789572995-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12518610.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12518537.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxurious 1BHK | Modern Design | Premium Amenities",
+        "url": "https://www.bayut.com/property/details-12518537.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.056347378663,
+          "longitude": 55.239341743921
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "840",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789570870-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12518537.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1250000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12518399.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spacious 1 BR | High ROI | Prime Location | Flexible PP",
+        "url": "https://www.bayut.com/property/details-12518399.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.067076535553,
+          "longitude": 55.233216669022
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "709",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789575326-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12518399.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1150000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12518268.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Smart 1-BR | Premium Amenities | High ROI",
+        "url": "https://www.bayut.com/property/details-12518268.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.067076535553,
+          "longitude": 55.233216669022
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "607",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789575044-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12518268.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517247.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "0% Commission | Spacious 2BR Apt Bond Enclave",
+        "url": "https://www.bayut.com/property/details-12517247.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,044",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789572546-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517247.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1556777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517245.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Post-Handover Plan | 1BR Apt Arjan Dubai",
+        "url": "https://www.bayut.com/property/details-12517245.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "700",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789572531-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517245.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1215777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517242.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Modern 2BR Apartment | Garden plus Pool",
+        "url": "https://www.bayut.com/property/details-12517242.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,392",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789572505-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517242.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2153777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517239.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Boutique-Style 2BR | Apt with Private Pool Dubai",
+        "url": "https://www.bayut.com/property/details-12517239.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,331",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789572493-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517239.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1955777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517149.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "School View | 1st Floor | Fully Furnished",
+        "url": "https://www.bayut.com/property/details-12517149.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.061850144162,
+          "longitude": 55.23236603884
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "470",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/789560477-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517149.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 700000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517054.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "0% COMMISSION | 1 BED+POOL | 3 YEARS PHPP",
+        "url": "https://www.bayut.com/property/details-12517054.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,295",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789558676-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517054.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1723777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517052.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "0% Commission | Luxury 1BR Apt in Bond Enclave",
+        "url": "https://www.bayut.com/property/details-12517052.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "787",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789558581-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517052.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1397777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517050.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "0% COMMISSION | LUXURY LIVING | GARDEN AND POOL",
+        "url": "https://www.bayut.com/property/details-12517050.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,089",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789558709-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517050.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1641777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517048.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "0% COMMISSION | LUXURY LIVING | GARDEN AND POOL",
+        "url": "https://www.bayut.com/property/details-12517048.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,291",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/789558617-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517048.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1874777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517046.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Gym & Pool Access | Luxury 1BR Apt Arjan",
+        "url": "https://www.bayut.com/property/details-12517046.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "774",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789572472-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517046.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1349777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12517043.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "0% Commission | 1BR Apt with Private Pool Arjan",
+        "url": "https://www.bayut.com/property/details-12517043.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,272",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789572468-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12517043.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1621777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12516717.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Investor's Deal | Elegant Studio | Premium Quality | Top-Notch Interiors | Call Now!",
+        "url": "https://www.bayut.com/property/details-12516717.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.06383995,
+          "longitude": 55.23225934
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "427",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/789552877-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12516717.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 670000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12516659.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Best Investment | Spacious Unit | Modern Living",
+        "url": "https://www.bayut.com/property/details-12516659.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.065756,
+          "longitude": 55.232927
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,156",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789551837-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12516659.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12516617.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "3BR|0%COMMISSION|GARDEN+POOL|36MONTH POST HANDOVER",
+        "url": "https://www.bayut.com/property/details-12516617.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,630",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/789551144-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12516617.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3258777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12516614.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "3BR | 0% COMMISSION | GARDEN AND POOL | SPACIOUS",
+        "url": "https://www.bayut.com/property/details-12516614.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,630",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/789551137-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12516614.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3064777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12516613.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "0% COMMISSION | LUXURY LIVING | SPACIOUS |",
+        "url": "https://www.bayut.com/property/details-12516613.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "766",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789551132-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12516613.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1274777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12516608.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Genuine Investor Deal | Prime Location | With Balcoony",
+        "url": "https://www.bayut.com/property/details-12516608.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064958,
+          "longitude": 55.243094
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "423",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/789550976-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12516608.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 620000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11647441.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "SPACIOUS STUDIO | INVESTOR DEAL | PRIME LOCATION",
+        "url": "https://www.bayut.com/property/details-11647441.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.06383995,
+          "longitude": 55.23225934
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "426",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/774232131-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11647441.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 670000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11368989.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1-Bedroom Apartment | Community View | Prime Location | Ideal for Investors | High ROI Potential",
+        "url": "https://www.bayut.com/property/details-11368989.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.067076535553,
+          "longitude": 55.233216669022
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "710",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/769542995-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11368989.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1050000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12515389.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury 1BR | 1% Monthly PP | Prime Location",
+        "url": "https://www.bayut.com/property/details-12515389.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.064128857886,
+          "longitude": 55.241878281981
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "700",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/789534004-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Arjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12515389.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1149777,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/arjan/page-47/",
+    "lowPrice": 550000,
+    "highPrice": 2967222,
+    "offerCount": 2645,
+    "priceCurrency": "AED"
+  }
+}

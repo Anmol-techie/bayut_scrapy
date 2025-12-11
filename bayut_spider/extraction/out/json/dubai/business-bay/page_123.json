@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 6461,
+  "url": "https://www.bayut.com/for-sale/property/dubai/business-bay/page-123/?sort=date_desc",
+  "name": "Business Bay",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.184351360451,
+    "longitude": 55.273177461418
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-7357622.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "VACANT | WELL MAINTAINED 1 BHK APARTMENT WITH BALCONY | CLOSE TO METRO STATION",
+        "url": "https://www.bayut.com/property/details-7357622.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.186073,
+          "longitude": 55.262314
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "802",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/400873185-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-7357622.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12378693.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Fully Managed Studio | Paramount | Prime Location",
+        "url": "https://www.bayut.com/property/details-12378693.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.186346767663,
+          "longitude": 55.291936127355
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "452",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/787236767-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12378693.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 940000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12378589.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Hotel Pool | 100 percent Ownership | Investor Deal",
+        "url": "https://www.bayut.com/property/details-12378589.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.179207,
+          "longitude": 55.275714
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "325",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/787235167-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12378589.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1495000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12377984.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Burj Khalifa View | High Floor | Prime Location",
+        "url": "https://www.bayut.com/property/details-12377984.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.185730574223,
+          "longitude": 55.26730288317
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "947",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/787279037-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12377984.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2480000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12377954.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1BR Apartment for Sale | The Edge – Tower B | Prime Location – Business Bay",
+        "url": "https://www.bayut.com/property/details-12377954.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.188838564983,
+          "longitude": 55.268102119332
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "698",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/787224354-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12377954.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1960000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12377750.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "SZR and Sea View | Private Pool | Payment Plan",
+        "url": "https://www.bayut.com/property/details-12377750.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.19183155327,
+          "longitude": 55.263646765327
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,054",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/787220686-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12377750.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2894000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12377271.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High Floor | Corner Unit | Pool & Sea View",
+        "url": "https://www.bayut.com/property/details-12377271.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.18058138072,
+          "longitude": 55.252602931012
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "857",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/787212410-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12377271.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1700000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12377199.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Modern Layout | Prime Location | Branded Living",
+        "url": "https://www.bayut.com/property/details-12377199.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.183468981888,
+          "longitude": 55.261473155467
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "815",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/787211347-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12377199.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1803000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12377195.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Close to Original Price | Hot Sale | City View",
+        "url": "https://www.bayut.com/property/details-12377195.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.183468981888,
+          "longitude": 55.261473155467
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "499",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/791978685-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12377195.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1086000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376878.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High Floor | 5-Star Services | Furnished",
+        "url": "https://www.bayut.com/property/details-12376878.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.184561,
+          "longitude": 55.291356
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,121",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/787207483-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376878.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2850000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376876.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Great Investment|High ROI |Managed",
+        "url": "https://www.bayut.com/property/details-12376876.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.186346767663,
+          "longitude": 55.291936127355
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "492",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/787207461-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376876.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 880000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376867.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Sea View | Biggest Layout | Unfurnished",
+        "url": "https://www.bayut.com/property/details-12376867.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.18292,
+          "longitude": 55.255451
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,511",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/787207430-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376867.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376866.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Mid Floor | Best Price | Stunning View",
+        "url": "https://www.bayut.com/property/details-12376866.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.18058138072,
+          "longitude": 55.252602931012
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "532",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/787207631-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376866.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1200000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376865.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Best Price | Mid Floor | Sea View",
+        "url": "https://www.bayut.com/property/details-12376865.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.18058138072,
+          "longitude": 55.252602931012
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "563",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/787207313-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376865.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1200000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376739.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Burj Khalifa View | MOTIVATED SELLER | HO 2026",
+        "url": "https://www.bayut.com/property/details-12376739.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.181795234287,
+          "longitude": 55.272488310373
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "449",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/787391713-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376739.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1195000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376640.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Furnished | Spacious | Vacant",
+        "url": "https://www.bayut.com/property/details-12376640.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.186073,
+          "longitude": 55.262314
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "982",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/788167412-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376640.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1400000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376471.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Burj Khalifa View | Spacious Layout | High Floor",
+        "url": "https://www.bayut.com/property/details-12376471.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.184561,
+          "longitude": 55.291356
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,880",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/787202885-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376471.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3790000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376466.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Best View| Investor Deal | Brand New |Key on hand",
+        "url": "https://www.bayut.com/property/details-12376466.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.1801416366,
+          "longitude": 55.272011964297
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "448",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/787202833-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376466.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1190000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376278.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Full Canal Facing | High Floor | Motivated Seller",
+        "url": "https://www.bayut.com/property/details-12376278.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.184276717658,
+          "longitude": 55.268082881414
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "831",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/787199695-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376278.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2499999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376272.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Canal View | Prime Location | Good Investment",
+        "url": "https://www.bayut.com/property/details-12376272.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.186702,
+          "longitude": 55.282607
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "904",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/787199542-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376272.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376143.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Brand New | Motivated | High Floor | Personal Use",
+        "url": "https://www.bayut.com/property/details-12376143.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.181064366112,
+          "longitude": 55.252994787688
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "426",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/787192626-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376143.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376033.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Fully Furnished | Available Now | Big Layout",
+        "url": "https://www.bayut.com/property/details-12376033.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.186459,
+          "longitude": 55.282058
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "889",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/787190914-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376033.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1400000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376025.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Ultra Luxury 2.5 BR | High ROI | Private Pool",
+        "url": "https://www.bayut.com/property/details-12376025.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.186637082868,
+          "longitude": 55.293192662827
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,302",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/787190936-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376025.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 8000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12375854.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Studio Apartment in Binghatti Skyrise Tower A",
+        "url": "https://www.bayut.com/property/details-12375854.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.181795234287,
+          "longitude": 55.272488310373
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "477",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/787188416-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Business Bay"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12375854.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/business-bay/page-123/",
+    "lowPrice": 800000,
+    "highPrice": 19750000,
+    "offerCount": 6461,
+    "priceCurrency": "AED"
+  }
+}

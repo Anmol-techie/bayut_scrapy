@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 50,
+  "url": "https://www.bayut.com/for-sale/property/ras-al-khaimah/al-dhait/page-2/?sort=date_desc",
+  "name": "Al Dhait",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.732936764946,
+    "longitude": 55.936731717782
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10791847.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Lakefront, Pool and Beachside | Resort Facilities",
+        "url": "https://www.bayut.com/property/details-10791847.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,857",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/759135275-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10791847.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-5862768.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Luxury 3 Floor Cove Villa - Beach View with Private Pool",
+        "url": "https://www.bayut.com/property/details-5862768.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,825",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/746143349-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-5862768.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3320000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9367463.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "الظيت الجنوبى",
+        "url": "https://www.bayut.com/property/details-9367463.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.730516810424,
+          "longitude": 55.927945265711
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "15,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/747207239-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9367463.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1550000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9432154.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "4 BHK | Luxury Villa | Private Garden",
+        "url": "https://www.bayut.com/property/details-9432154.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.730516810424,
+          "longitude": 55.927945265711
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "4,500",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "8",
+        "image": "https://images.bayut.com/thumbnails/777780089-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9432154.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10112271.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Luxury Big Villa |6 Bedrooms + Maid | Brand New",
+        "url": "https://www.bayut.com/property/details-10112271.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.732936764946,
+          "longitude": 55.936731717782
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "10,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "6"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/746765397-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10112271.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1950000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11763219.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Full Sea View | Converted to 2 BR | Luxurious",
+        "url": "https://www.bayut.com/property/details-11763219.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,450",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776487725-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11763219.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11650626.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "5* Resort | Beach Access | Well Maintained |",
+        "url": "https://www.bayut.com/property/details-11650626.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,800",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/777847384-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11650626.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2550000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11579232.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "For sale residential complex in Saqr Bin Mohammed City (North Al Dhait) Emirate of Ras Al Khaimah",
+        "url": "https://www.bayut.com/property/details-11579232.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.748415,
+          "longitude": 55.938349
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "8,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "11"
+        },
+        "numberOfBathroomsTotal": "11",
+        "image": "https://images.bayut.com/thumbnails/772992096-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11579232.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1650000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11553258.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "GCC National Only - Luxury 7 Bed Villa for Sale Ras Al Khaimah",
+        "url": "https://www.bayut.com/property/details-11553258.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.730516810424,
+          "longitude": 55.927945265711
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "10,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "7"
+        },
+        "numberOfBathroomsTotal": "8",
+        "image": "https://images.bayut.com/thumbnails/772555406-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11553258.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11430837.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "3BR 5-star Resort Villa with Private Pool and Stunning beach and Sea View",
+        "url": "https://www.bayut.com/property/details-11430837.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,825",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/770497031-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11430837.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10267917.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "3 Bedroom for Sale Cove Rotana - Private Pool - Sea View",
+        "url": "https://www.bayut.com/property/details-10267917.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,825",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/756386753-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10267917.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3070000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11393270.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Luxury 2BR Townhouse | Waterfront | Furnished",
+        "url": "https://www.bayut.com/property/details-11393270.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,850",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/769868218-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11393270.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11385230.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Two Bedroom Villa for Sale in Cove Rotana",
+        "url": "https://www.bayut.com/property/details-11385230.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,828",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/769746601-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11385230.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2350000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11208619.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "1st Row Beach Villa - 3 Bedroom for Sale Cove Rotana - Open Kitchen",
+        "url": "https://www.bayut.com/property/details-11208619.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,852",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/766613617-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11208619.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 4000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11144013.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Private Pool | Private Garden | 5* resort",
+        "url": "https://www.bayut.com/property/details-11144013.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,825",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/777847925-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11144013.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9406020.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Dream Villa Deal! 2BR + Pool – Lowest Price Guaranteed",
+        "url": "https://www.bayut.com/property/details-9406020.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,894",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/780211689-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9406020.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9828991.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Prime Residential Plots for Sale in Al Dhait South, Khalifa Bin Zayed – 10,000 Sqft Each | AED 650,000",
+        "url": "https://www.bayut.com/property/details-9828991.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.730516810424,
+          "longitude": 55.927945265711
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "10,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "0",
+        "image": "https://images.bayut.com/thumbnails/792875667-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9828991.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 650000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11022809.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Corner TownHouse | Ocean View | Private Pool",
+        "url": "https://www.bayut.com/property/details-11022809.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,840",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/763357293-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11022809.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11022799.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Magnificent 2BR || Private Pool || Beach View",
+        "url": "https://www.bayut.com/property/details-11022799.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,840",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/763357170-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11022799.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10812869.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Large Layout | Fully Furnished | Huge Corner Plot",
+        "url": "https://www.bayut.com/property/details-10812869.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.730516810424,
+          "longitude": 55.927945265711
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "28,862",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/769132589-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10812869.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 7500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10176986.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Exquisite 3-Bedroom Pool Villa | Hillside with Sea View | Fully furnished",
+        "url": "https://www.bayut.com/property/details-10176986.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,852",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/747816537-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10176986.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8972880.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "GREAT DEAL I RELAXING VILLA I 2BR",
+        "url": "https://www.bayut.com/property/details-8972880.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,600",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/747162812-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8972880.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9712891.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Walk To The Beach - On The Lagoon With Pool Views",
+        "url": "https://www.bayut.com/property/details-9712891.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,600",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/748814647-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9712891.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2495000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9616931.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Luxury at the Water's Edge | Private Pool | Beach, Lake and Pool View",
+        "url": "https://www.bayut.com/property/details-9616931.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.738606,
+          "longitude": 55.887719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,832",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/737043958-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Al Dhait"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9616931.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2490000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/ras-al-khaimah/al-dhait/page-2/",
+    "lowPrice": 650000,
+    "highPrice": 7500000,
+    "offerCount": 50,
+    "priceCurrency": "AED"
+  }
+}

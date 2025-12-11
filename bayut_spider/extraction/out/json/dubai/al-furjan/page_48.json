@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 3778,
+  "url": "https://www.bayut.com/for-sale/property/dubai/al-furjan/page-48/?sort=date_desc",
+  "name": "Al Furjan",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.026727365671,
+    "longitude": 55.139588882553
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12584028.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2 Bed + Maid | 5 Min To Metro Station | 1 Min To Etihad Railways | Ready To Move In 1 Month | Pool View",
+        "url": "https://www.bayut.com/property/details-12584028.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.01806921257,
+          "longitude": 55.138619164004
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,148",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/790797666-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12584028.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1650000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12582827.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury Living | Prime Location | High ROI 12%",
+        "url": "https://www.bayut.com/property/details-12582827.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.018417,
+          "longitude": 55.121944
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,108",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/790717695-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12582827.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1583000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12582763.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury Living | Prime Location | High ROI 12%",
+        "url": "https://www.bayut.com/property/details-12582763.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.018417,
+          "longitude": 55.121944
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "650",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790716918-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12582763.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1007000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12582259.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High ROI | Deal for Investors | Prime Location",
+        "url": "https://www.bayut.com/property/details-12582259.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.018417,
+          "longitude": 55.121944
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "341",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/790705937-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12582259.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 640000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12582221.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Invest Now | Lowest Price | Investor Deal",
+        "url": "https://www.bayut.com/property/details-12582221.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.018058120872,
+          "longitude": 55.133363300575
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "872",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/790705124-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12582221.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1313754,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12582218.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Best Deal | Prime Location | Iconic Structure",
+        "url": "https://www.bayut.com/property/details-12582218.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.018058120872,
+          "longitude": 55.133363300575
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "813",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/790705085-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12582218.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1233952,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12582107.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High ROI | Deal for Investors | Prime Location",
+        "url": "https://www.bayut.com/property/details-12582107.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.018417,
+          "longitude": 55.121944
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "327",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/790703040-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12582107.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 560000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581992.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Next To Metro | Premium Location & Quality",
+        "url": "https://www.bayut.com/property/details-12581992.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.034221587555,
+          "longitude": 55.14514888719
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "797",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790704100-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581992.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581908.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High ROI | Deal for Investors | Prime Location",
+        "url": "https://www.bayut.com/property/details-12581908.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.018417,
+          "longitude": 55.121944
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "334",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/790699171-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581908.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 565000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581849.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High ROI | Deal for Investors | Prime Location",
+        "url": "https://www.bayut.com/property/details-12581849.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.018417,
+          "longitude": 55.121944
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "327",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/790698037-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581849.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 400000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581761.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Pool Facing | High Floor | Next to Metro",
+        "url": "https://www.bayut.com/property/details-12581761.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.030471696617,
+          "longitude": 55.15105205941
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "841",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790696702-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581761.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1269999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581673.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Family-Friendly / Luxury Apartments / high ROI 12%",
+        "url": "https://www.bayut.com/property/details-12581673.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.01811949082,
+          "longitude": 55.127553223188
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "834",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790695605-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581673.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 986040,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581668.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury Living | Smart Home | Easy Payment Plan",
+        "url": "https://www.bayut.com/property/details-12581668.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.018058120872,
+          "longitude": 55.133363300575
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "873",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/790695304-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581668.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1313709,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581637.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "JUST HANDED OVER | 2 BED + STUDY | PRIVATE POOL | FULLY FURNISHED",
+        "url": "https://www.bayut.com/property/details-12581637.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.018256435498,
+          "longitude": 55.140927277112
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,447",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/790694737-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581637.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1900000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581626.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Special Unit - Summer Offer - Luxurious and secure living – High ROI",
+        "url": "https://www.bayut.com/property/details-12581626.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.018394661921,
+          "longitude": 55.121535097506
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,494",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/790697856-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581626.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2233450,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581477.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2 Bed + Maid room | Fully Furnished | Vastu Compliant | 50/50 Payment Plan",
+        "url": "https://www.bayut.com/property/details-12581477.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.03122756,
+          "longitude": 55.13889676
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,194",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/790692426-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581477.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1980000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581304.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Fully furnished | 2 Bed + Maid Room | Near to Metro | Vastu compliant",
+        "url": "https://www.bayut.com/property/details-12581304.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.03122756,
+          "longitude": 55.13889676
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,350",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/790689409-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581304.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2125000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581293.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "SPACIOUS | FLEXIBLE PLAN | STRATEGIC",
+        "url": "https://www.bayut.com/property/details-12581293.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.03157972631,
+          "longitude": 55.13895878875
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,164",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790689190-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581293.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1570000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581270.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Near the metro - luxury - smart home - 10% down payment",
+        "url": "https://www.bayut.com/property/details-12581270.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.034028,
+          "longitude": 55.145583
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,673",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/790688644-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581270.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2375000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581265.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "WEST VIEW | 2 BR + STUDY | EXCLUSIVE LIVING",
+        "url": "https://www.bayut.com/property/details-12581265.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.018110349896,
+          "longitude": 55.127008423094
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,221",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790688550-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581265.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1842000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581207.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "3 Bed + Maid | Fully Furnished | 50/50 Payment Plan | Vastu Compliant",
+        "url": "https://www.bayut.com/property/details-12581207.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.03122756,
+          "longitude": 55.13889676
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,796",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/790687431-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581207.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581161.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "LUXURY LIVING | NEAR METRO | HIGH ROI",
+        "url": "https://www.bayut.com/property/details-12581161.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.03157972631,
+          "longitude": 55.13895878875
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,247",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/790758133-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581161.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1740000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581063.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Near the metro - luxury - smart home - 10% down payment",
+        "url": "https://www.bayut.com/property/details-12581063.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.034028,
+          "longitude": 55.145583
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,838",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/790685623-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581063.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2372000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12581054.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spacious 2-BR Apart | Brand New | Near to Metro",
+        "url": "https://www.bayut.com/property/details-12581054.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.03003,
+          "longitude": 55.139057
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,043",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/790685427-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Al Furjan"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12581054.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1250000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/al-furjan/page-48/",
+    "lowPrice": 530000,
+    "highPrice": 12000000,
+    "offerCount": 3778,
+    "priceCurrency": "AED"
+  }
+}

@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 2413,
+  "url": "https://www.bayut.com/for-sale/property/ajman/al-rashidiya/page-76/?sort=date_desc",
+  "name": "Al Rashidiya",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.395099639893,
+    "longitude": 55.450199127197
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12131458.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "LUXURIOUS 3BHK | PARKING | FREEHOLD",
+        "url": "https://www.bayut.com/property/details-12131458.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.395075,
+          "longitude": 55.430699
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,182",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/783199474-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12131458.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12131449.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "LUXURIOUS 1BHK | FREEHOLD | PARKING",
+        "url": "https://www.bayut.com/property/details-12131449.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.395075,
+          "longitude": 55.430699
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,050",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/783200376-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12131449.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 400000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12131438.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "LUXURIOUS STUDIO | PARKING | FREEHOLD",
+        "url": "https://www.bayut.com/property/details-12131438.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.395075,
+          "longitude": 55.430699
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "650",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/783202409-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12131438.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 310000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12131405.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "LUXURIOUS 2BHK | PARKING | READY TO MOVE",
+        "url": "https://www.bayut.com/property/details-12131405.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.395075,
+          "longitude": 55.430699
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,440",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/783203022-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12131405.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 650000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12130962.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "FOR SALE IN INSTALLMENTS | FULLY FURNISHED 2BHK WITH PANORAMIC AJMAN CREEK VIEW | HIGH FLOOR | INVESTMENT UNIT | PRIME LOCATION | OASIS TOWER 1",
+        "url": "https://www.bayut.com/property/details-12130962.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.396889,
+          "longitude": 55.454232
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,540",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/783130327-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12130962.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 770000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12129948.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "\"1 BHK IN OASIS TOWER 3 ON INSTALLMENT PLAN\"",
+        "url": "https://www.bayut.com/property/details-12129948.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.396380576428,
+          "longitude": 55.454010887227
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "996",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/791629019-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12129948.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 589018,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12128927.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "3 bhk in heart of Ajman",
+        "url": "https://www.bayut.com/property/details-12128927.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.399135170422,
+          "longitude": 55.448771842611
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,008",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/783096079-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12128927.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 530000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12128398.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2BHK Sea View || 3 Balconies || Empty Flat || For Sale",
+        "url": "https://www.bayut.com/property/details-12128398.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.399154554024,
+          "longitude": 55.449273415664
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,553",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/783107011-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12128398.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 450000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12128205.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Best Investment Opportunity Directly from the Developer – No Commission, No Registration or Ownership Fees! Ajman Marina Project – Seafront Apartme",
+        "url": "https://www.bayut.com/property/details-12128205.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392367,
+          "longitude": 55.458126
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,100",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/783085394-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12128205.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 805000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12127451.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "own 1bedroom flat \\ open view to sea 100% \\ big size \\ resale",
+        "url": "https://www.bayut.com/property/details-12127451.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.395069728899,
+          "longitude": 55.430576532835
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,150",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/783065212-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12127451.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 580000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12125537.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Full Open View | Big Studio for Sale | Falcon Towers | 690 Sq. Ft | AED 215,000",
+        "url": "https://www.bayut.com/property/details-12125537.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.399292,
+          "longitude": 55.448823
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "690",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/788433160-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12125537.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 215000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12121196.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "High return - luxury apartment - open view - luxurious finishes - ready to move in",
+        "url": "https://www.bayut.com/property/details-12121196.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.390063989959,
+          "longitude": 55.455659782339
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,415",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/782960908-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12121196.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1230000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12120789.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "3 Bedroom Hall Available For Sale Open And Sea View In Ajman One Tower",
+        "url": "https://www.bayut.com/property/details-12120789.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.395803466022,
+          "longitude": 55.430511455672
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,182",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/782952374-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12120789.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 785000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12120565.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "BRAND NEW ONE BHK APARTMENT AVAILABLE FOR SALE JUST 59205",
+        "url": "https://www.bayut.com/property/details-12120565.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.396380576428,
+          "longitude": 55.454010887227
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/782947257-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12120565.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 592056,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12118696.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Unmissable Investment Opportunity! Spacious Studio for Sale in Ajman One Towers – Al Rashidiya 3",
+        "url": "https://www.bayut.com/property/details-12118696.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.395207224785,
+          "longitude": 55.429775571701
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "760",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/783348770-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12118696.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 290000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12117643.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Residential Investment Apartment for Sale – 1BHK – Gulfa Towers, Ajman",
+        "url": "https://www.bayut.com/property/details-12117643.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.390063989959,
+          "longitude": 55.455659782339
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,204",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792728162-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12117643.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 692582,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12116395.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2BHK for Sale in Ajman One Tower paritial seaview | 1,610 Sq. ft | AED 580K",
+        "url": "https://www.bayut.com/property/details-12116395.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.395075,
+          "longitude": 55.430699
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,610",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/782883205-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12116395.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 540000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12116374.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Smart Studio | AED 3,890 Monthly | Prime Location",
+        "url": "https://www.bayut.com/property/details-12116374.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.395069728899,
+          "longitude": 55.430576532835
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "700",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/782882724-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12116374.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 435999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12116341.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Oasis Tower 3 – Premium Apartments | Easy 6-Year Plan | Handover Q4 2027",
+        "url": "https://www.bayut.com/property/details-12116341.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.396380576428,
+          "longitude": 55.454010887227
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,081",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/782882453-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12116341.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 590999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12116332.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Live in Style – Ajman One Phase 2 . | 2BHK . | 5% Down | 3 Yrs Post-Handover",
+        "url": "https://www.bayut.com/property/details-12116332.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.395069728899,
+          "longitude": 55.430576532835
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,700",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/782882232-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12116332.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 949999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-6017222.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Two Bedroom Hall available For Sale In Rashidiya Towers",
+        "url": "https://www.bayut.com/property/details-6017222.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.395008,
+          "longitude": 55.451151
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,550",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/763830804-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-6017222.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 400000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9734372.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Empty 3 bhk available for sale in falcon Towers without parking",
+        "url": "https://www.bayut.com/property/details-9734372.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.399292,
+          "longitude": 55.448823
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,004",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/763831226-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9734372.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 510000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12112567.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Walking Distance to Corniche 100% Freehold 7 year PP - 1% per month",
+        "url": "https://www.bayut.com/property/details-12112567.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.395069728899,
+          "longitude": 55.430576532835
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,211",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/782984574-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12112567.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 676328,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12107748.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "\"Affordable 2BHK Apartment for Sale in Ajman Pearl Towers 415,000 Only AED",
+        "url": "https://www.bayut.com/property/details-12107748.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392367,
+          "longitude": 55.458126
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,312",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/782742881-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rashidiya"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12107748.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 415000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/ajman/al-rashidiya/page-76/",
+    "lowPrice": 285000,
+    "highPrice": 3600000,
+    "offerCount": 2413,
+    "priceCurrency": "AED"
+  }
+}

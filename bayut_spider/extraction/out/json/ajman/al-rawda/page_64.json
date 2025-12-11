@@ -1,0 +1,120 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 1514,
+  "url": "https://www.bayut.com/for-sale/property/ajman/al-rawda/page-64/?sort=date_desc",
+  "name": "Al Rawda",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.392786962728,
+    "longitude": 55.512144376388
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10155085.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Corner Plot, with a very lively location in rawdh",
+        "url": "https://www.bayut.com/property/details-10155085.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389701380412,
+          "longitude": 55.500397408488
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "10,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "0",
+        "image": "https://images.bayut.com/thumbnails/748121531-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rawda"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10155085.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10147496.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "### For sale - Distinctive villas in Rawdah 1 area, water and electricity",
+        "url": "https://www.bayut.com/property/details-10147496.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389298,
+          "longitude": 55.521957
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,100",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/747330855-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Rawda"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10147496.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/ajman/al-rawda/page-64/",
+    "lowPrice": 1400000,
+    "highPrice": 6500000,
+    "offerCount": 1514,
+    "priceCurrency": "AED"
+  }
+}

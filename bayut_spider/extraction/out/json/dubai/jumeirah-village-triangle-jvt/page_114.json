@@ -1,0 +1,684 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 2726,
+  "url": "https://www.bayut.com/for-sale/property/dubai/jumeirah-village-triangle-jvt/page-114/?sort=date_desc",
+  "name": "Jumeirah Village Triangle (JVT)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.044014305506,
+    "longitude": 55.185663558555
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10623717.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Super Spacious - Kitchen Equppied - Stunning unit",
+        "url": "https://www.bayut.com/property/details-10623717.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.047907,
+          "longitude": 55.195372
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,009",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/755925627-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10623717.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 790000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10518107.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Stunning Views| Fully Luxury Furnished|High Floor",
+        "url": "https://www.bayut.com/property/details-10518107.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.043081,
+          "longitude": 55.193609
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "379",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/754100280-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10518107.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 540000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10455529.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Investment Property| High Floor | 2 Years PHPP",
+        "url": "https://www.bayut.com/property/details-10455529.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.039460221828,
+          "longitude": 55.182203531925
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "597",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/752977771-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10455529.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1031279,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10455528.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxurious | High Floor | Community View",
+        "url": "https://www.bayut.com/property/details-10455528.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.039445337482,
+          "longitude": 55.181918517998
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "382",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/752977776-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10455528.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 725979,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10350699.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1-Bedroom Apartment with Study Room | Ideal Investment | Easy Payment Plan",
+        "url": "https://www.bayut.com/property/details-10350699.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.039937126227,
+          "longitude": 55.181862740342
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "918",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/751158080-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10350699.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1280000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10350675.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Modern 1-Bedroom Apartment | Ideal Investment Opportunity | Easy Payment Plan",
+        "url": "https://www.bayut.com/property/details-10350675.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.039937126227,
+          "longitude": 55.181862740342
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "695",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/751157706-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10350675.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1032000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10350631.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Stylish 2-Bedroom Apartment | Hot Investment Opportunity | Prime Location in JVT",
+        "url": "https://www.bayut.com/property/details-10350631.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.039937126227,
+          "longitude": 55.181862740342
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,035",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/751157175-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10350631.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1419000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10328044.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2 Bedroom Furnished Apartment in Seslia Tower is for sale with Post Handover Payment Plan",
+        "url": "https://www.bayut.com/property/details-10328044.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.043597955995,
+          "longitude": 55.194710021025
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "987",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/751571920-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10328044.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1320000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9536729.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "INVESTORS DEAL FOR END USERS | Luxury Living | Prime Location| HIGH ROI",
+        "url": "https://www.bayut.com/property/details-9536729.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.039937126227,
+          "longitude": 55.181862740342
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "695",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/759649502-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9536729.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10272328.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "50% Post Handover | No Commission | Luxury residence",
+        "url": "https://www.bayut.com/property/details-10272328.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.039937126227,
+          "longitude": 55.181862740342
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "695",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/786890962-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10272328.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1032000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10245356.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "CORNER UNIT I WELL MAINTAINED I VACANT",
+        "url": "https://www.bayut.com/property/details-10245356.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.052006336174,
+          "longitude": 55.191572818483
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,511",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/749116036-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10245356.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 5000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9425421.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Turnkey | 5 Bed | Renovated Villa | With Pool",
+        "url": "https://www.bayut.com/property/details-9425421.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.047046,
+          "longitude": 55.190178
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "6,724",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/776072352-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9425421.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 10750000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-4696439.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury One-Bedroom Apartment for Sale",
+        "url": "https://www.bayut.com/property/details-4696439.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.043081,
+          "longitude": 55.193609
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "704",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/749776951-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-4696439.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 750000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9064318.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2 beds I Fully Furnished I Great Deal",
+        "url": "https://www.bayut.com/property/details-9064318.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.043597955995,
+          "longitude": 55.194710021025
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "985",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/708041561-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Jumeirah Village Triangle (JVT)"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9064318.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1200000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/jumeirah-village-triangle-jvt/page-114/",
+    "lowPrice": 536902,
+    "highPrice": 3909775,
+    "offerCount": 2726,
+    "priceCurrency": "AED"
+  }
+}

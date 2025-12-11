@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 2016,
+  "url": "https://www.bayut.com/for-sale/property/dubai/palm-jumeirah/page-18/?sort=date_desc",
+  "name": "Palm Jumeirah",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.118690512606,
+    "longitude": 55.135936456106
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12614322.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "3 BR Simplex | Amazing Palm View | Luxurious",
+        "url": "https://www.bayut.com/property/details-12614322.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.104943568532,
+          "longitude": 55.112586781941
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,452",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/791408307-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12614322.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 9082057,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12614164.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Exquisite 3BR| Prestigious Living| Stunning Views",
+        "url": "https://www.bayut.com/property/details-12614164.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.111190358727,
+          "longitude": 55.145625070737
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "5,990",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/791408711-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12614164.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 31000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12613705.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "8.4% ROI | Investor Deal | Full Sea View",
+        "url": "https://www.bayut.com/property/details-12613705.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.111730227519,
+          "longitude": 55.139138102408
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "371",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/791398154-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12613705.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1350000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11191979.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Fully Furnished | Private Pool | Huge Garden",
+        "url": "https://www.bayut.com/property/details-11191979.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.104144,
+          "longitude": 55.148481
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,161",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/766317239-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11191979.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 9250000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10208081.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Genuine Listing - Upgraded and Extended - VOT",
+        "url": "https://www.bayut.com/property/details-10208081.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.118927236358,
+          "longitude": 55.130102616811
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "5,500",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/749686673-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10208081.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 39999999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11552449.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "VACANT | LARGE APARTMENT | MAIDS ROOM | PARK VIEW",
+        "url": "https://www.bayut.com/property/details-11552449.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.105698,
+          "longitude": 55.148352
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,787",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/773819124-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11552449.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 4200000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12613129.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Bespoke Shell Unit | Panoramic views | High Floor",
+        "url": "https://www.bayut.com/property/details-12613129.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.100127522834,
+          "longitude": 55.155791783265
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "15,201",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/791395176-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12613129.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 65000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-7614475.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Brand New | Upgraded | Vacant",
+        "url": "https://www.bayut.com/property/details-7614475.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.121563514495,
+          "longitude": 55.129966628727
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "4,555",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/762618210-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-7614475.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 21000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12612539.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Palm Jumeirah | Best Layout | Luxury",
+        "url": "https://www.bayut.com/property/details-12612539.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.140203054677,
+          "longitude": 55.141777503427
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,649",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/791574690-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12612539.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 14900000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10323200.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Maids in PalmFully Furnished 2BR",
+        "url": "https://www.bayut.com/property/details-10323200.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.099296,
+          "longitude": 55.121053
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,757",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/750725473-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10323200.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 4300000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12612269.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Vacant Soon | Large 1Bed | Sea and Sunset",
+        "url": "https://www.bayut.com/property/details-12612269.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.110436094485,
+          "longitude": 55.137631092626
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,338",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792568422-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12612269.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 4500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12612250.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Palm Jumierah | Luxurious | Sea View",
+        "url": "https://www.bayut.com/property/details-12612250.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.140203054677,
+          "longitude": 55.141777503427
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,962",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/791574784-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12612250.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 10208660,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12612243.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Ultra luxurious | Sea View | Private Beach",
+        "url": "https://www.bayut.com/property/details-12612243.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.108421,
+          "longitude": 55.110917
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "8,188",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/791378087-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12612243.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 49999999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12611708.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Serviced Unit | Furnished Studio | Investment",
+        "url": "https://www.bayut.com/property/details-12611708.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.104144,
+          "longitude": 55.148481
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "635",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/791369024-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12611708.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1599999,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12611703.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Monthly Income | Managed Apartment | 60/40 Split",
+        "url": "https://www.bayut.com/property/details-12611703.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.104144,
+          "longitude": 55.148481
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "491",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/791368956-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12611703.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1575000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12611631.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Upgraded | Vacant On Transfer | 3 Bedroom",
+        "url": "https://www.bayut.com/property/details-12611631.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.108606217484,
+          "longitude": 55.146567374468
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,222",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/791368013-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12611631.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 5500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12611612.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Royal Bay – Where Elegance Meets the Sea / Water front 1BR FOR SALE",
+        "url": "https://www.bayut.com/property/details-12611612.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.12543,
+          "longitude": 55.153182
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,098",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791374637-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12611612.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12611447.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Exclusive | Marina Views | Studio",
+        "url": "https://www.bayut.com/property/details-12611447.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.115537684511,
+          "longitude": 55.134970843792
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "542",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/791365190-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12611447.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1550000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12611446.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Coastal Lifestyle| Luxurious Destinations|80/20 PP",
+        "url": "https://www.bayut.com/property/details-12611446.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.111190358727,
+          "longitude": 55.145625070737
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "9,448",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/791365173-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12611446.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 52920800,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12611432.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Marina and Downtown View | Fully Furnished",
+        "url": "https://www.bayut.com/property/details-12611432.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.100751,
+          "longitude": 55.15502
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "921",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791364965-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12611432.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2889000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12611413.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Furnished | Great investment | Spacious",
+        "url": "https://www.bayut.com/property/details-12611413.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.108885523859,
+          "longitude": 55.142352283001
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,355",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/791940026-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12611413.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3150000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12611290.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Dubai Marina View | Fully Furnished | Great ROI",
+        "url": "https://www.bayut.com/property/details-12611290.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.100751,
+          "longitude": 55.15502
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,766",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/791361369-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12611290.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 6699000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12611087.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Vacant Now | Furnished | Hotel Amenities",
+        "url": "https://www.bayut.com/property/details-12611087.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.112505,
+          "longitude": 55.109332
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "6,979",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/792396312-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12611087.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 57000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10911551.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Partly Sea View | Best Lay out | High Floor",
+        "url": "https://www.bayut.com/property/details-10911551.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.106628,
+          "longitude": 55.149267
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,141",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/761354293-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Palm Jumeirah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10911551.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 6150000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/palm-jumeirah/page-18/",
+    "lowPrice": 999999,
+    "highPrice": 165000000,
+    "offerCount": 2016,
+    "priceCurrency": "AED"
+  }
+}

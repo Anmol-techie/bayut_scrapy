@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 2235,
+  "url": "https://www.bayut.com/for-sale/property/ras-al-khaimah/mina-al-arab/page-3/?sort=date_desc",
+  "name": "Mina Al Arab",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.71843,
+    "longitude": 55.848173
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12692972.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Premium 1BR | Park View | Solera Mina",
+        "url": "https://www.bayut.com/property/details-12692972.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "801",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792776582-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12692972.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1519000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12692957.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Coastal Living | Luxurious Apartment | Sea view",
+        "url": "https://www.bayut.com/property/details-12692957.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.723952861507,
+          "longitude": 55.844451037703
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,867",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/792776381-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12692957.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2990000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12692870.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1BR Apartment in Bay Residences | Central 1",
+        "url": "https://www.bayut.com/property/details-12692870.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.723952861507,
+          "longitude": 55.844451037703
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "796",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792774979-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12692870.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12692698.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxury 1BR in Solera Mina | Flexible Plans",
+        "url": "https://www.bayut.com/property/details-12692698.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "621",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/792772429-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12692698.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1227000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12692541.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Modernelegance meets coastalcharm at BayResidences",
+        "url": "https://www.bayut.com/property/details-12692541.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.723952861507,
+          "longitude": 55.844451037703
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "894",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792768994-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12692541.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12691940.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Pre - Launch | 5% Discount on OP | Flexible Plan",
+        "url": "https://www.bayut.com/property/details-12691940.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.719821936235,
+          "longitude": 55.837999775477
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "400",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/792795501-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12691940.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12690824.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "إLuxury 2-Bedroom Apartment in Solera – 3 Bathrooms & Prime View",
+        "url": "https://www.bayut.com/property/details-12690824.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,216",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/792737354-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12690824.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2257000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12690805.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "إLuxury 2-Bedroom Apartment in Solera – 3 Bathrooms & Prime View",
+        "url": "https://www.bayut.com/property/details-12690805.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,216",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/792737127-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12690805.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2257000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12690249.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1BHK APPARTEMENT | LUXURY LIFSTYLE | Golden opportunity | Comfortable installments",
+        "url": "https://www.bayut.com/property/details-12690249.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "801",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792723552-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12690249.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1503000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12690167.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "ONE BEDROOM APPARTEMENT | POOL VIEW | HIGH ROI | EASY PAYMENTS| WORLD CLASS AMENITIES | FREEHOLD",
+        "url": "https://www.bayut.com/property/details-12690167.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "621",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792721928-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12690167.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1227000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12689831.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "FREE HOLD / NO COMMISSION / LUXIRIOUS AND UNIQUE HOME FOR FAMILY /1BHK",
+        "url": "https://www.bayut.com/property/details-12689831.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "848",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792715867-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12689831.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1507000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12687014.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "HIGH ROI FOR INVESTMENT / FREEHOLD / A vibrant coastal escape where contemporary design meets natural serenity @ SOLERA Tower 1, RAK",
+        "url": "https://www.bayut.com/property/details-12687014.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,228",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/792664600-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12687014.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2463000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12686903.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "HIGH ROI FOR INVESTMENT / FREEHOLD / A vibrant coastal escape where contemporary design meets natural serenity @ SOLERA Tower 1, RAK",
+        "url": "https://www.bayut.com/property/details-12686903.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,744",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/792662739-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12686903.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3738000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12686832.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "HIGH ROI FOR INVESTMENT / FREEHOLD / A vibrant coastal escape where contemporary design meets natural serenity @ SOLERA Tower 1, RAK",
+        "url": "https://www.bayut.com/property/details-12686832.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "623",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792661688-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12686832.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1294000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12686537.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Amazing View Studio Apart For Sale | Mina Al Arab",
+        "url": "https://www.bayut.com/property/details-12686537.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.71843,
+          "longitude": 55.848173
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "341",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/792657443-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12686537.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 380000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12685872.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "FREEHOLD | ZERO COMMISSION | INSTALLMENT | GOOD INVESTMENT | HIGH ROI | LUXURIOUS APARTMENT",
+        "url": "https://www.bayut.com/property/details-12685872.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "613",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792647783-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12685872.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1266000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12685801.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "BEAUTIFUL LAGOON VIEW APARTMENT | FREEHOLD | ZERO COMMISSION | FLEXIBLE PAYMENT PLAN",
+        "url": "https://www.bayut.com/property/details-12685801.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "623",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792646820-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12685801.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1294000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12685706.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "BEAUTIFUL APARTMENT | FREEHOLD | NO COMMISSION | FLEXIBLE PAYMENT PLAN",
+        "url": "https://www.bayut.com/property/details-12685706.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "612",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792645582-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12685706.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1333000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12685658.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "PREMIUM SEA VIEW APARTMENT | FREEHOLD | INSTALLMENT | ZERO COMMISSION",
+        "url": "https://www.bayut.com/property/details-12685658.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "801",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792644910-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12685658.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1662000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12685561.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxurious living | Golden opportunity | Comfortable installments | Freehold | Stability",
+        "url": "https://www.bayut.com/property/details-12685561.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "801",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/792643288-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12685561.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1671000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12685550.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Luxurious living | Golden opportunity | Comfortable installments | Freehold | Stability",
+        "url": "https://www.bayut.com/property/details-12685550.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,228",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/792643072-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12685550.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2503000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12685523.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "SEA VIEW | NO COMMISSION - EASY PAYMENT PLAN - HIGH ROI - EXCELLENT INVESTMENT",
+        "url": "https://www.bayut.com/property/details-12685523.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,242",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/792642567-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12685523.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 4800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12685504.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "FREEHOLD - OPEN VIEW - PREMIUM FINISHING - FROM DEVELOPER -NO COMMISSION",
+        "url": "https://www.bayut.com/property/details-12685504.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,622",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/792642309-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12685504.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2340000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12685440.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "PRIME LOCATION - FREEHOLD - NO COMMISSION - FROM DEVELOPER - HIGH ROI",
+        "url": "https://www.bayut.com/property/details-12685440.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.717851902511,
+          "longitude": 55.833701781063
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,216",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/792640852-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ras Al Khaimah",
+          "addressLocality": "Mina Al Arab"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12685440.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2250000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/ras-al-khaimah/mina-al-arab/page-3/",
+    "lowPrice": 370000,
+    "highPrice": 22000000,
+    "offerCount": 2235,
+    "priceCurrency": "AED"
+  }
+}

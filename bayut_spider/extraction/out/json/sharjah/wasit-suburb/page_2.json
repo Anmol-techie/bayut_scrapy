@@ -1,0 +1,214 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 28,
+  "url": "https://www.bayut.com/for-sale/property/sharjah/wasit-suburb/page-2/?sort=date_desc",
+  "name": "Wasit Suburb",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.353099822998,
+    "longitude": 55.458000183105
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10040057.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Modern Luxury Villa | Strategic Location | Call Now| Resale Unit",
+        "url": "https://www.bayut.com/property/details-10040057.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.353099822998,
+          "longitude": 55.458000183105
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,155",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756247552-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Wasit Suburb"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10040057.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9873427.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Luxury Villa | Strategic Location | Resale Unit",
+        "url": "https://www.bayut.com/property/details-9873427.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.353099822998,
+          "longitude": 55.458000183105
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "4,540",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/756246530-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Wasit Suburb"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9873427.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2757000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9873333.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Best Price | Spacious Layout | Strategic Location| Resale Unit",
+        "url": "https://www.bayut.com/property/details-9873333.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.353099822998,
+          "longitude": 55.458000183105
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,160",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/756169251-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Wasit Suburb"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9873333.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2151000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9873226.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Luxury Villas | Exclusive Location | Lifetime Visa Opportunity | Easy Payment Plans",
+        "url": "https://www.bayut.com/property/details-9873226.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.353099822998,
+          "longitude": 55.458000183105
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,379",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/756201518-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Wasit Suburb"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9873226.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1893000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/sharjah/wasit-suburb/page-2/",
+    "lowPrice": 1409000,
+    "highPrice": 3110000,
+    "offerCount": 28,
+    "priceCurrency": "AED"
+  }
+}

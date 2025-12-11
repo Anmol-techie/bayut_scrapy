@@ -1,0 +1,825 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 2465,
+  "url": "https://www.bayut.com/for-sale/property/ajman/al-amerah/page-103/?sort=date_desc",
+  "name": "Al Amerah",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.392582061951,
+    "longitude": 55.582421541996
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10961060.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "On Sheikh Mohammed Bin Zayed Road - 7 years payment plan - down payment",
+        "url": "https://www.bayut.com/property/details-10961060.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.380737416158,
+          "longitude": 55.585011511477
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,740",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/762323130-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10961060.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 705000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10897584.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Land for sale in Al-Amerah, G+2, residential, investment, excellent location",
+        "url": "https://www.bayut.com/property/details-10897584.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392582061951,
+          "longitude": 55.582421541996
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,648",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "0",
+        "image": "https://images.bayut.com/thumbnails/761105526-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10897584.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 580000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10891984.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Corner plot, on Main Street, Al-Amerah garden",
+        "url": "https://www.bayut.com/property/details-10891984.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392582061951,
+          "longitude": 55.582421541996
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,013",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "0",
+        "image": "https://images.bayut.com/thumbnails/760970383-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10891984.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 850000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10888972.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "For sale, a two-storey villa in Al-Amerah area, on Sheikh Mohammed bin Zayed Road, freehold for all nationalities and without a down payment",
+        "url": "https://www.bayut.com/property/details-10888972.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.385209,
+          "longitude": 55.577618
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,014",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/791052665-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10888972.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9857576.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Modern 3-storey villa with elevator for sale in Al-Amerah area, 100% bank financing. The price includes registration fees and air conditioning.",
+        "url": "https://www.bayut.com/property/details-9857576.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392582061951,
+          "longitude": 55.582421541996
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,014",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "6"
+        },
+        "numberOfBathroomsTotal": "8",
+        "image": "https://images.bayut.com/thumbnails/762796315-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9857576.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2180000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10831427.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Spring opportunity, land in Al-Amerah for only 570 thousand",
+        "url": "https://www.bayut.com/property/details-10831427.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392582061951,
+          "longitude": 55.582421541996
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,200",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "0",
+        "image": "https://images.bayut.com/thumbnails/759835685-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10831427.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 570000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10821704.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Direct view of Sheikh Mohammed bin Zayed Road - 7 years payment plan",
+        "url": "https://www.bayut.com/property/details-10821704.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.380737416158,
+          "longitude": 55.585011511477
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,740",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/764545562-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10821704.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 704000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10702958.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "For sale: Two-storey villa with a spacious courtyard - easy bank financing available and without a down payment - freehold for all nationalities",
+        "url": "https://www.bayut.com/property/details-10702958.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.385209,
+          "longitude": 55.577618
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,014",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/791049274-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10702958.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10693180.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Including registration and ownership fees - very spacious interior divisions and hotel finishes.",
+        "url": "https://www.bayut.com/property/details-10693180.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.385209,
+          "longitude": 55.577618
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,014",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "6"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/791049897-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10693180.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1740000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10634568.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "3 Bedroom Townhouse With Study Room In The First Ever Gated Community Of Ajman | High ROI",
+        "url": "https://www.bayut.com/property/details-10634568.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392379912018,
+          "longitude": 55.582283005904
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,600",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/756107273-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10634568.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1750000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10613032.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Monthly installment 5200 - Delivery at the end of the year - 7-year payment plan",
+        "url": "https://www.bayut.com/property/details-10613032.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.380737416158,
+          "longitude": 55.585011511477
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,170",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/755744807-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10613032.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 516000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10589007.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "With an installment of 5200 AED - own your apartment installments for 7 years - freehold",
+        "url": "https://www.bayut.com/property/details-10589007.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.380737416158,
+          "longitude": 55.585011511477
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,170",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/755364765-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10589007.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 518000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10403623.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1 room and a large hall with a premium of only 5300 in Blue Bell",
+        "url": "https://www.bayut.com/property/details-10403623.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.380737416158,
+          "longitude": 55.585011511477
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,174",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/752048992-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10403623.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 521000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10296335.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Monthly installment 5300 - 7-year payment plan - down payment - distinctive view",
+        "url": "https://www.bayut.com/property/details-10296335.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.380737416158,
+          "longitude": 55.585011511477
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,174",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/764545343-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10296335.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 521000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10135328.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "For sale in Al-Amerah, a modern 5-room villa. The price includes water, electricity, air conditioning, and registration fees. 100% bank financing.",
+        "url": "https://www.bayut.com/property/details-10135328.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392582061951,
+          "longitude": 55.582421541996
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,014",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "8",
+        "image": "https://images.bayut.com/thumbnails/762798108-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10135328.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1700000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10127350.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spacious spaces - open views - luxurious finishes - maid's room - 7-year payment plan",
+        "url": "https://www.bayut.com/property/details-10127350.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.380737416158,
+          "longitude": 55.585011511477
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,223",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/766108663-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10127350.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 885000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10115815.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "## Villa for sale in Al-Amerah area, modern design, 5 master rooms",
+        "url": "https://www.bayut.com/property/details-10115815.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392582061951,
+          "longitude": 55.582421541996
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "3,014",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/746825998-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Al Amerah"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10115815.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1500000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/ajman/al-amerah/page-103/",
+    "lowPrice": 508452,
+    "highPrice": 2250000,
+    "offerCount": 2465,
+    "priceCurrency": "AED"
+  }
+}

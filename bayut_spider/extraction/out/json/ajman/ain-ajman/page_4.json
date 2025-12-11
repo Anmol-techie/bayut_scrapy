@@ -1,0 +1,590 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 84,
+  "url": "https://www.bayut.com/for-sale/property/ajman/ain-ajman/page-4/?sort=date_desc",
+  "name": "Ain Ajman",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.388785,
+    "longitude": 55.563215
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12469204.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "A great investment opportunity or ideal residential option in a prime location.",
+        "url": "https://www.bayut.com/property/details-12469204.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389052670305,
+          "longitude": 55.563242987906
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "909",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/788793656-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ain Ajman"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12469204.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 374000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12456504.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Own your apartment now in Ajman at rental prices",
+        "url": "https://www.bayut.com/property/details-12456504.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389052670305,
+          "longitude": 55.563242987906
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,189",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/788872923-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ain Ajman"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12456504.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 470000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12435381.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "A great investment opportunity or ideal residential option in a prime location.",
+        "url": "https://www.bayut.com/property/details-12435381.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389052670305,
+          "longitude": 55.563242987906
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,195",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/788200067-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ain Ajman"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12435381.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 470284,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12435358.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "A great investment opportunity or ideal residential option in a prime location.",
+        "url": "https://www.bayut.com/property/details-12435358.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389052670305,
+          "longitude": 55.563242987906
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,195",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/788199932-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ain Ajman"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12435358.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 470284,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12416576.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Own a room and a hall in Gold Crescent Tower. Ajman. with a down payment of 65.000 dirhams",
+        "url": "https://www.bayut.com/property/details-12416576.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389052670305,
+          "longitude": 55.563242987906
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,012",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/789549719-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ain Ajman"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12416576.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 425000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12406251.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Project About – Goldcrest Towers | Emirates City Goldcrest Towers is one of the most sought-after residential projects in Emirates City, offering hi",
+        "url": "https://www.bayut.com/property/details-12406251.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389052670305,
+          "longitude": 55.563242987906
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,195",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/787687296-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ain Ajman"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12406251.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 470284,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12405833.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "About the project – Goldcrest Towers: An integrated residential project that combines modern design with a prime location in the heart of Ajman.",
+        "url": "https://www.bayut.com/property/details-12405833.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389052670305,
+          "longitude": 55.563242987906
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,195",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/787680643-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ain Ajman"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12405833.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 470284,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12376238.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Great facilities \\\\ Prime location \\\\ Freehold",
+        "url": "https://www.bayut.com/property/details-12376238.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389052670305,
+          "longitude": 55.563242987906
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,012",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/787194023-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ain Ajman"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12376238.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 392435,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12339372.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Apartment for sale in Gold Crescent Towers with a low down payment and a great investment return",
+        "url": "https://www.bayut.com/property/details-12339372.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389052670305,
+          "longitude": 55.563242987906
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,234",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/787197854-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ain Ajman"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12339372.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 515135,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12273275.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "A two-bedroom apartment with a living room at a very nice price, almost for free, featuring super lux finishing in a strategic location on Sheikh Moha",
+        "url": "https://www.bayut.com/property/details-12273275.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389052670305,
+          "longitude": 55.563242987906
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,195",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/785521841-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ain Ajman"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12273275.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 470284,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12268878.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Own luxury Apartment | in Ajman | Installment for 7 years",
+        "url": "https://www.bayut.com/property/details-12268878.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389052670305,
+          "longitude": 55.563242987906
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/785454201-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ain Ajman"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12268878.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 420000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12185750.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Gold Crest – Al Ameera Village, Ajman",
+        "url": "https://www.bayut.com/property/details-12185750.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.389052670305,
+          "longitude": 55.563242987906
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,012",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/784047467-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Ain Ajman"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12185750.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 428368,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/ajman/ain-ajman/page-4/",
+    "lowPrice": 374448,
+    "highPrice": 560000,
+    "offerCount": 84,
+    "priceCurrency": "AED"
+  }
+}

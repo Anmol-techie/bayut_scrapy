@@ -1,0 +1,35 @@
+/Users/apple/Desktop/mcp/bayut_scrapy/bayut_spider/extraction/bayut_ldjson_to_mongo.py:429: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  fetched_at = dt.datetime.utcnow().isoformat() + "Z"
+📂 Loading sublocations from: bayut_sublocations_all_cities.csv
+🌍 Found 382 sub-locations
+🗄️  Mongo connected: mongodb://localhost:27017 → bayut_production.sublocation_properties
+\n[1/382] 🏢 Dubai > Jumeirah Village Circle (JVC) (12,380 listings)
+  📄 Will scrape up to 500 pages
+\n    📄 Page 1: https://www.bayut.com/for-sale/property/dubai/jumeirah-village-circle-jvc/page-1/?sort=date_desc
+      📊 Response: HTTP 404, Size: 1090627 bytes
+      ❌ HTTP 404
+      ℹ️  Page not found - likely end of listings
+\n    📄 Page 2: https://www.bayut.com/for-sale/property/dubai/jumeirah-village-circle-jvc/page-2/?sort=date_desc
+      📊 Response: HTTP 200, Size: 1590325 bytes
+      ✅ 24 items (upserted=0, matched=24, modified=24)
+\n    📄 Page 3: https://www.bayut.com/for-sale/property/dubai/jumeirah-village-circle-jvc/page-3/?sort=date_desc
+      📊 Response: HTTP 200, Size: 1640724 bytes
+      ✅ 24 items (upserted=0, matched=24, modified=24)
+\n    📄 Page 4: https://www.bayut.com/for-sale/property/dubai/jumeirah-village-circle-jvc/page-4/?sort=date_desc
+      📊 Response: HTTP 200, Size: 1627295 bytes
+      ✅ 24 items (upserted=0, matched=24, modified=24)
+\n    📄 Page 5: https://www.bayut.com/for-sale/property/dubai/jumeirah-village-circle-jvc/page-5/?sort=date_desc
+      📊 Response: HTTP 200, Size: 1630401 bytes
+      ✅ 24 items (upserted=0, matched=24, modified=24)
+\n    📄 Page 6: https://www.bayut.com/for-sale/property/dubai/jumeirah-village-circle-jvc/page-6/?sort=date_desc
+      📊 Response: HTTP 200, Size: 1614226 bytes
+      ✅ 24 items (upserted=0, matched=24, modified=24)
+\n    📄 Page 7: https://www.bayut.com/for-sale/property/dubai/jumeirah-village-circle-jvc/page-7/?sort=date_desc
+      📊 Response: HTTP 200, Size: 1628687 bytes
+      ✅ 24 items (upserted=0, matched=24, modified=24)
+\n    📄 Page 8: https://www.bayut.com/for-sale/property/dubai/jumeirah-village-circle-jvc/page-8/?sort=date_desc
+      📊 Response: HTTP 200, Size: 1620080 bytes
+      ✅ 24 items (upserted=0, matched=24, modified=24)
+\n    📄 Page 9: https://www.bayut.com/for-sale/property/dubai/jumeirah-village-circle-jvc/page-9/?sort=date_desc
+
+🛑 Interrupted.

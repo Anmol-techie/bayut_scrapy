@@ -1,0 +1,966 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 1412,
+  "url": "https://www.bayut.com/for-sale/property/ajman/emirates-city/page-59/?sort=date_desc",
+  "name": "Emirates City",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.39485165452,
+    "longitude": 55.575173663844
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10756090.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spacious 1BHK | Garden View| Brand New",
+        "url": "https://www.bayut.com/property/details-10756090.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392872831577,
+          "longitude": 55.574294590101
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "824",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/758447740-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10756090.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 265000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-6588014.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spacious ! bedroom for sale in Brand new Building",
+        "url": "https://www.bayut.com/property/details-6588014.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.39327395082,
+          "longitude": 55.574381139738
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "823",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/509232658-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-6588014.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 255000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9028777.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "\"Luxurious High-Floor 2BHK with Ample Space and Parking for Sale\"",
+        "url": "https://www.bayut.com/property/details-9028777.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.390443,
+          "longitude": 55.571766
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,400",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/700935329-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9028777.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 390000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8068963.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Cozy and Modern 1BHK Apartment for Sale| Your Perfect Urban Home in Best Price.",
+        "url": "https://www.bayut.com/property/details-8068963.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.39327395082,
+          "longitude": 55.574381139738
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "823",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/503206380-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8068963.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 260000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10701267.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Rare sized 1 BHK | BEST price|",
+        "url": "https://www.bayut.com/property/details-10701267.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392872831577,
+          "longitude": 55.574294590101
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "881",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/757439705-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10701267.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 280000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10701213.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "BEST PRICE | BEST LOCATION |",
+        "url": "https://www.bayut.com/property/details-10701213.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392872831577,
+          "longitude": 55.574294590101
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "824",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/757438487-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10701213.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 250000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9476752.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1 BHK FOR SALE IN GOLDCREAST DREAM",
+        "url": "https://www.bayut.com/property/details-9476752.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392872831577,
+          "longitude": 55.574294590101
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "873",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/754769358-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9476752.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 275000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10555070.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Zero Fees | 1 BHK with Study Room | Available On Installment Plan",
+        "url": "https://www.bayut.com/property/details-10555070.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.391956290159,
+          "longitude": 55.574007633152
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,195",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776190416-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10555070.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 470284,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10554555.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Only 43k Downpayment | Zero Fees | 1 BHK | Available On Installment Plan",
+        "url": "https://www.bayut.com/property/details-10554555.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.391956290159,
+          "longitude": 55.574007633152
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "857",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776190264-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10554555.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 369448,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10528892.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Zero Fees | 1 BHK with Study Room | Available On Installment Plan",
+        "url": "https://www.bayut.com/property/details-10528892.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.391956290159,
+          "longitude": 55.574007633152
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,195",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776192799-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10528892.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 470284,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10528479.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "No Fees | 1 BHK with Study Room | Open View | Available On Installment Plan",
+        "url": "https://www.bayut.com/property/details-10528479.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.391956290159,
+          "longitude": 55.574007633152
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,012",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776192373-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10528479.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 428368,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10528006.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Zero Fees | 2 BHK | Open View | Available On Installment Plan",
+        "url": "https://www.bayut.com/property/details-10528006.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.391956290159,
+          "longitude": 55.574007633152
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,234",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776191792-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10528006.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 515135,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10527576.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "No Fees | 1 BHK | With Balcony | Available For Sale",
+        "url": "https://www.bayut.com/property/details-10527576.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.391956290159,
+          "longitude": 55.574007633152
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "909",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776191165-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10527576.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 392435,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10511247.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1 BHK and Study Room | 7 Year Installment Plan Available For Sale",
+        "url": "https://www.bayut.com/property/details-10511247.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.391956290159,
+          "longitude": 55.574007633152
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,195",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776193237-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10511247.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 470284,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10511019.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1bhk with study room available for sale on easy payment plan in ajman",
+        "url": "https://www.bayut.com/property/details-10511019.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.391956290159,
+          "longitude": 55.574007633152
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,012",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776194229-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10511019.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 428368,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10510391.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2 BHK | Open View | Available For Sale | Installment Plan",
+        "url": "https://www.bayut.com/property/details-10510391.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.391956290159,
+          "longitude": 55.574007633152
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,234",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776193845-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10510391.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 515135,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10503195.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1bhk available for sale on easy payment in ajman",
+        "url": "https://www.bayut.com/property/details-10503195.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.391956290159,
+          "longitude": 55.574007633152
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "824",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776196720-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10503195.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 352920,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10502981.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1 BHK + Study Room| 2 Washroom | Available For Sale | Installment Plan",
+        "url": "https://www.bayut.com/property/details-10502981.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.391956290159,
+          "longitude": 55.574007633152
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,195",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/776197704-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10502981.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 470284,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10158899.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Grab This Deal & Own Your One-Bedroom Apartment in Lilies Tower, Emirates City. Ajman.",
+        "url": "https://www.bayut.com/property/details-10158899.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.391044,
+          "longitude": 55.572023
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,025",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/747691675-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10158899.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 280000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9885887.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "2 Bedroom Apartment.",
+        "url": "https://www.bayut.com/property/details-9885887.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.39485165452,
+          "longitude": 55.575173663844
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,310",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/761896974-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Emirates City"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9885887.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 350000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/ajman/emirates-city/page-59/",
+    "lowPrice": 265000,
+    "highPrice": 852727,
+    "offerCount": 1412,
+    "priceCurrency": "AED"
+  }
+}

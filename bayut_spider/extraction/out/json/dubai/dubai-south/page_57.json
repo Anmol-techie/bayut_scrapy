@@ -1,0 +1,1154 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 2720,
+  "url": "https://www.bayut.com/for-sale/property/dubai/dubai-south/page-57/?sort=date_desc",
+  "name": "Dubai South",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 24.924388761493,
+    "longitude": 55.16429559172
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12461657.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Ready-to-Move 1BHK | 730K | Fully Furnished | Pool View | Spacious | MAG 5 Boulevard",
+        "url": "https://www.bayut.com/property/details-12461657.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.949237,
+          "longitude": 55.231606
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "666",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/788678611-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12461657.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 715000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12461276.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Investment Price /36 months post-handover / Cheapest price per sqft",
+        "url": "https://www.bayut.com/property/details-12461276.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.945028,
+          "longitude": 55.224389
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "919",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/788673160-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12461276.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1103000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12461269.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Investment Price /36 months post-handover / Cheapest price per sqft",
+        "url": "https://www.bayut.com/property/details-12461269.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.945028,
+          "longitude": 55.224389
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "639",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/788673094-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12461269.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 799000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12461263.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Investment Price /36 months post-handover / Cheapest price per sqft",
+        "url": "https://www.bayut.com/property/details-12461263.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.945028,
+          "longitude": 55.224389
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "331",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/788673026-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12461263.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 497000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12460649.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Close to Park - Facing Villas Community - Handover in a Year - 60/40 Payment Plan",
+        "url": "https://www.bayut.com/property/details-12460649.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.950584,
+          "longitude": 55.225894
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "646",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/788659994-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12460649.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 839192,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12460614.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1% Monthly - Premium Finishing - Prime Location - 40% on Handover",
+        "url": "https://www.bayut.com/property/details-12460614.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.93775,
+          "longitude": 55.221389
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "379",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/788659458-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12460614.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12459300.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Ready to Move - Premium Finishing - Prime Location - Post Handover Payment Plan",
+        "url": "https://www.bayut.com/property/details-12459300.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.950312523744,
+          "longitude": 55.226267836694
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,125",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/788635642-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12459300.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1298916,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12459103.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1% Monthly - Premium Finishing - Prime Location - 40% on Handover",
+        "url": "https://www.bayut.com/property/details-12459103.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.93775,
+          "longitude": 55.221389
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "379",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/788632915-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12459103.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 600000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12459066.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "60% on Handover - Fully Furnished - Premium Finishing - 10% Down Payment",
+        "url": "https://www.bayut.com/property/details-12459066.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.938528,
+          "longitude": 55.222528
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,060",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/788632269-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12459066.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1278000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 9
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12459047.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Close to Park - Facing Villas Community - Handover in a Year - 60/40 Payment Plan",
+        "url": "https://www.bayut.com/property/details-12459047.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.950584,
+          "longitude": 55.225894
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "646",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/788631992-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12459047.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 839192,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 10
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12458947.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Handover in 5 Months - 2 Years Post Handover - Premium Finishing - 20% Down Payment",
+        "url": "https://www.bayut.com/property/details-12458947.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.943610365328,
+          "longitude": 55.227419634804
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,095",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/788630286-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12458947.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1309000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 11
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12458904.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Exclusive | 4 Bedroom + Maid | Park View",
+        "url": "https://www.bayut.com/property/details-12458904.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.854943093229,
+          "longitude": 55.141744397337
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "4,581",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "5",
+        "image": "https://images.bayut.com/thumbnails/788628894-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12458904.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 5400000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 12
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12458865.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Huge Plot | Genuine | Multiple Options | PHPP",
+        "url": "https://www.bayut.com/property/details-12458865.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.930940524264,
+          "longitude": 55.224051948197
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "4,619",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/788637077-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12458865.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 4900000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 13
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12458718.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spanking New | Luxury Finishes | Top Location",
+        "url": "https://www.bayut.com/property/details-12458718.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.943904207036,
+          "longitude": 55.21921813577
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,281",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/788625022-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12458718.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1844000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 14
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12458620.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Latest Launch | Prime Location | Near to Airport",
+        "url": "https://www.bayut.com/property/details-12458620.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.943904207036,
+          "longitude": 55.21921813577
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,261",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "3"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/788623089-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12458620.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1754000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 15
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12458339.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Largest Layout | Fully Furnished | High Floor",
+        "url": "https://www.bayut.com/property/details-12458339.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.948365083232,
+          "longitude": 55.202874182581
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "624",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/788619641-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12458339.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 700000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 16
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12458334.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "New Community | Investment opportunity | 10% DP | 1.6% Monthly",
+        "url": "https://www.bayut.com/property/details-12458334.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.943904207036,
+          "longitude": 55.21921813577
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "969",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/788693697-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12458334.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1279000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 17
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12458041.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Spacious Studio for Sale | Azizi Venice | Dubai South | Near New Al Maktoum Intl Airport | DLD waiver",
+        "url": "https://www.bayut.com/property/details-12458041.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.836148648824,
+          "longitude": 55.140671858059
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "380",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/788811036-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12458041.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 655000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 18
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12456920.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "|| Own a Waterfront Home in Dubai South || Studio at Azizi Venice || Flexible Payment Plan || High ROI ||",
+        "url": "https://www.bayut.com/property/details-12456920.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.835726303579,
+          "longitude": 55.137419523143
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "381",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/788625942-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12456920.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 655000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 19
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12457507.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "1 B | DAMAC TENORA | NO Agent | Lowest Price",
+        "url": "https://www.bayut.com/property/details-12457507.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.946627644618,
+          "longitude": 55.211845636368
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "888",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "1"
+        },
+        "numberOfBathroomsTotal": "2",
+        "image": "https://images.bayut.com/thumbnails/788606590-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12457507.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 750000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 20
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11390479.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Park Facing 2BR Townhouse with Store Room",
+        "url": "https://www.bayut.com/property/details-11390479.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.942610522845,
+          "longitude": 55.223948493186
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,982",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/769828552-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11390479.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2250000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 21
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-10729553.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Simple & Comfortable- 2BR Townhouse - with Study for Sale",
+        "url": "https://www.bayut.com/property/details-10729553.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.945144,
+          "longitude": 55.222208
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "1,858",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "2"
+        },
+        "numberOfBathroomsTotal": "3",
+        "image": "https://images.bayut.com/thumbnails/758005806-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-10729553.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 2100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 22
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12457287.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Apartment"
+        ],
+        "name": "Invest in Luxury: Studio Apartment at Azizi Venice, Dubai South I High ROI",
+        "url": "https://www.bayut.com/property/details-12457287.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.835379820187,
+          "longitude": 55.139123828077
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "359",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "0"
+        },
+        "numberOfBathroomsTotal": "1",
+        "image": "https://images.bayut.com/thumbnails/788604704-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12457287.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 675000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 23
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-12456789.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "Residence"
+        ],
+        "name": "Brand New | Single Row | Spacious Layout",
+        "url": "https://www.bayut.com/property/details-12456789.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 24.860817244445,
+          "longitude": 55.130108621718
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "2,400",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "4",
+        "image": "https://images.bayut.com/thumbnails/788595523-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Dubai",
+          "addressLocality": "Dubai South"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-12456789.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3400000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 24
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/dubai/dubai-south/page-57/",
+    "lowPrice": 530000,
+    "highPrice": 6000000,
+    "offerCount": 2720,
+    "priceCurrency": "AED"
+  }
+}

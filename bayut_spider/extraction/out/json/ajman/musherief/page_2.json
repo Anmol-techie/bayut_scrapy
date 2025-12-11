@@ -1,0 +1,402 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 32,
+  "url": "https://www.bayut.com/for-sale/property/ajman/musherief/page-2/?sort=date_desc",
+  "name": "Musherief",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.392265,
+    "longitude": 55.461774
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11658252.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "TWO FLOOR VILLA FOR SALE IN AJMAN MUSHERIEF",
+        "url": "https://www.bayut.com/property/details-11658252.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392265,
+          "longitude": 55.461774
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "15,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "8"
+        },
+        "numberOfBathroomsTotal": "10",
+        "image": "https://images.bayut.com/thumbnails/774439382-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Musherief"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11658252.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11654152.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "GROUND FLOOR VILLA FOR SALE AJMAN MUSHERIEF",
+        "url": "https://www.bayut.com/property/details-11654152.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392265,
+          "longitude": 55.461774
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "10,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "10"
+        },
+        "numberOfBathroomsTotal": "8",
+        "image": "https://images.bayut.com/thumbnails/774363796-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Musherief"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11654152.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 750000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11654059.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "GROUND FLOOR VILLA FOR SALE AJMAN MUSHERIEF",
+        "url": "https://www.bayut.com/property/details-11654059.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392265,
+          "longitude": 55.461774
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "9,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/774355611-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Musherief"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11654059.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 900000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9970185.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "TWO FLOOR VILLA FOR SALE IN AJMAN MUSHERIEF",
+        "url": "https://www.bayut.com/property/details-9970185.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392265,
+          "longitude": 55.461774
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "14,500",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/744129410-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Musherief"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9970185.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1100000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 4
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9995108.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "TWO FLOOR VILLA FOR SALE IN AJMAN MUSHERIEF",
+        "url": "https://www.bayut.com/property/details-9995108.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392265,
+          "longitude": 55.461774
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "10,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/744548229-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Musherief"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9995108.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1550000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 5
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11471403.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Citizens of the Emirate of Ajman, a house in the Mushairef area, on the corner of a street and a lane, with an area of 11,700 square feet, with an a",
+        "url": "https://www.bayut.com/property/details-11471403.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392265,
+          "longitude": 55.461774
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "11,700",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/771158391-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Musherief"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11471403.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1150000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 6
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11362406.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Villa for sale in Mishrif area * Citizens area * Area 10,000 square feet * Quiet area * Beauty of details * Architectural masterpiece * Unique lifesty",
+        "url": "https://www.bayut.com/property/details-11362406.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392265,
+          "longitude": 55.461774
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "10,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "6"
+        },
+        "numberOfBathroomsTotal": "8",
+        "image": "https://images.bayut.com/thumbnails/769318452-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Musherief"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11362406.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1700000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 7
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9385981.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Villa for sale in Musheirif area * Citizens area * 10,000 square feet area * Quiet area * Beauty of details * Architectural masterpiece * Unique lifes",
+        "url": "https://www.bayut.com/property/details-9385981.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.392265,
+          "longitude": 55.461774
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "10,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "6"
+        },
+        "numberOfBathroomsTotal": "8",
+        "image": "https://images.bayut.com/thumbnails/738014520-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Ajman",
+          "addressLocality": "Musherief"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9385981.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1700000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 8
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/ajman/musherief/page-2/",
+    "lowPrice": 335000,
+    "highPrice": 1700000,
+    "offerCount": 32,
+    "priceCurrency": "AED"
+  }
+}

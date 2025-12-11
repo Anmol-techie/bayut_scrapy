@@ -1,0 +1,167 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Place",
+    "ItemList",
+    "Product"
+  ],
+  "numberOfItems": 27,
+  "url": "https://www.bayut.com/for-sale/property/sharjah/al-ramtha/page-2/?sort=date_desc",
+  "name": "Al Ramtha",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.360004,
+    "longitude": 55.450044
+  },
+  "itemListElement": [
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-11240906.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "One of the most luxurious villas for sale in the Ramtha area.",
+        "url": "https://www.bayut.com/property/details-11240906.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.360004,
+          "longitude": 55.450044
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "6,550",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "4"
+        },
+        "numberOfBathroomsTotal": "7",
+        "image": "https://images.bayut.com/thumbnails/767136865-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramtha"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-11240906.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 1800000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 1
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-9952509.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "Spacious villa for sale in Sharjah, Al Ramtha area",
+        "url": "https://www.bayut.com/property/details-9952509.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.360004,
+          "longitude": 55.450044
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "6,500",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "5"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/743822320-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramtha"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-9952509.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 2
+    },
+    {
+      "@type": "ItemPage",
+      "url": "https://www.bayut.com/property/details-8426702.html",
+      "mainEntity": {
+        "@type": [
+          "Product",
+          "House"
+        ],
+        "name": "For sale villa in the Emirate of Sharjah, Ramtha area, excellent location, corner of two neighboring streets",
+        "url": "https://www.bayut.com/property/details-8426702.html",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.360004,
+          "longitude": 55.450044
+        },
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": "13,000",
+          "unitText": "SQFT"
+        },
+        "numberOfRooms": {
+          "@type": "QuantitativeValue",
+          "name": "Bedroom(s)",
+          "value": "6"
+        },
+        "numberOfBathroomsTotal": "6",
+        "image": "https://images.bayut.com/thumbnails/575240370-400x300.jpeg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Sharjah",
+          "addressLocality": "Al Ramtha"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "priceCurrency": "AED",
+            "url": "https://www.bayut.com/property/details-8426702.html",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 3000000,
+              "priceCurrency": "AED"
+            }
+          }
+        ]
+      },
+      "position": 3
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.bayut.com/for-sale/property/sharjah/al-ramtha/page-2/",
+    "lowPrice": 1500000,
+    "highPrice": 4200000,
+    "offerCount": 27,
+    "priceCurrency": "AED"
+  }
+}
